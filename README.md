@@ -16,11 +16,6 @@ pip install -r requirements.txt
 The archived run used Python 3.10.9, PyTorch 2.9.1 (CPU), NumPy 2.2.6, SciPy 1.15.3 and
 Matplotlib 3.10.7 on Windows. The code also runs on Linux with Python 3.11 and PyTorch 2.14.
 
-## The simulator is Section III
-
-`sim_core.py` implements Section III of the paper equation by equation. In every
-control interval T_c, ABS i serves the devices of M_i, and each device has one task
-of L_k bits that needs L_k c_k CPU cycles.
 
 | Paper | Code (`sim_core.py`) |
 |---|---|
