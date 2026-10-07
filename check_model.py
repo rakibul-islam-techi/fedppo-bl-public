@@ -121,7 +121,7 @@ def check_policy(cfg, label, policy, seeds, episodes):
     report(f"{tag}: SINRs equal Eqs. (4)-(5) with every device of M_i transmitting", worst["sinr"] < 1e-9,
            f"max relative diff {worst['sinr']:.1e}")
     report(f"{tag}: L_k1 + L_k2 = L_k with L_k1 = round(rho_k L_k)", worst["bits"] == 0)
-    report(f"{tag}: block-error probability equals Eq. (6) with V from Eq. (7) and R_ks/W_i = L_ks/n_k",
+    report(f"{tag}: block-error probability equals Eq. (6) with V from Eq. (7)",
            worst["eps"] < 1e-9, f"max abs diff {worst['eps']:.1e}")
     report(f"{tag}: T_tx equals Eq. (10)", worst["ttx"] < 1e-15, f"max abs diff {worst['ttx']:.1e} s")
     report(f"{tag}: T_comp equals Eq. (12)", worst["tcomp"] < 1e-15, f"max abs diff {worst['tcomp']:.1e} s")
