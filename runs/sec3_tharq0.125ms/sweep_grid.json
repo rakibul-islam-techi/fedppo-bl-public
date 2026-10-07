@@ -1,0 +1,4722 @@
+[
+  {
+    "factor": "power",
+    "label": "P_k = 17 dBm",
+    "pmax_dbm": 17.0,
+    "fmax_ghz": 8.0,
+    "allocation": "own",
+    "sweep": [
+      {
+        "n_k": 150.0,
+        "mean_ms": 0.3748646357225436,
+        "viol_total": 83.00275482093664,
+        "viol_reported": 0.0,
+        "drop_rate": 83.00275482093664,
+        "p99_delivered_ms": 0.6885564318472499,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 200.0,
+        "mean_ms": 0.35468839438896477,
+        "viol_total": 63.960055096418735,
+        "viol_reported": 0.0,
+        "drop_rate": 63.960055096418735,
+        "p99_delivered_ms": 0.6380751212410102,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 250.0,
+        "mean_ms": 0.33980847454591095,
+        "viol_total": 49.352617079889804,
+        "viol_reported": 0.0,
+        "drop_rate": 49.352617079889804,
+        "p99_delivered_ms": 0.6615995510339815,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 300.0,
+        "mean_ms": 0.3276374831751259,
+        "viol_total": 36.370523415977964,
+        "viol_reported": 0.0,
+        "drop_rate": 36.370523415977964,
+        "p99_delivered_ms": 0.663427225045372,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 350.0,
+        "mean_ms": 0.31789239316268436,
+        "viol_total": 25.71625344352617,
+        "viol_reported": 0.0,
+        "drop_rate": 25.71625344352617,
+        "p99_delivered_ms": 0.6494503063498551,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 400.0,
+        "mean_ms": 0.31044418224158843,
+        "viol_total": 17.568870523415978,
+        "viol_reported": 0.0,
+        "drop_rate": 17.568870523415978,
+        "p99_delivered_ms": 0.6443586827419121,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 450.0,
+        "mean_ms": 0.30586373191986654,
+        "viol_total": 11.391184573002755,
+        "viol_reported": 0.0,
+        "drop_rate": 11.391184573002755,
+        "p99_delivered_ms": 0.6378257468444882,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 500.0,
+        "mean_ms": 0.3032791250281607,
+        "viol_total": 7.65840220385675,
+        "viol_reported": 0.0,
+        "drop_rate": 7.65840220385675,
+        "p99_delivered_ms": 0.6083488683909191,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 525.0,
+        "mean_ms": 0.3031290011876765,
+        "viol_total": 6.1570247933884295,
+        "viol_reported": 0.0,
+        "drop_rate": 6.1570247933884295,
+        "p99_delivered_ms": 0.6021629059720411,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 550.0,
+        "mean_ms": 0.3032539927636518,
+        "viol_total": 4.848484848484849,
+        "viol_reported": 0.0,
+        "drop_rate": 4.848484848484849,
+        "p99_delivered_ms": 0.5910227969376075,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 600.0,
+        "mean_ms": 0.30500943570139105,
+        "viol_total": 3.044077134986226,
+        "viol_reported": 0.0,
+        "drop_rate": 3.044077134986226,
+        "p99_delivered_ms": 0.581362601448073,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 650.0,
+        "mean_ms": 0.30770133849646125,
+        "viol_total": 1.893939393939394,
+        "viol_reported": 0.0,
+        "drop_rate": 1.893939393939394,
+        "p99_delivered_ms": 0.5333272361791402,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 700.0,
+        "mean_ms": 0.3105505759226796,
+        "viol_total": 1.1225895316804406,
+        "viol_reported": 0.0,
+        "drop_rate": 1.1225895316804406,
+        "p99_delivered_ms": 0.505963536025617,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 750.0,
+        "mean_ms": 0.31401015152630274,
+        "viol_total": 0.6060606060606061,
+        "viol_reported": 0.0,
+        "drop_rate": 0.6060606060606061,
+        "p99_delivered_ms": 0.4589190318157869,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 800.0,
+        "mean_ms": 0.3179891005536981,
+        "viol_total": 0.3925619834710744,
+        "viol_reported": 0.0,
+        "drop_rate": 0.3925619834710744,
+        "p99_delivered_ms": 0.4383131479785684,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 850.0,
+        "mean_ms": 0.3226031939058752,
+        "viol_total": 0.28236914600550966,
+        "viol_reported": 0.0,
+        "drop_rate": 0.28236914600550966,
+        "p99_delivered_ms": 0.4433131479785684,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 900.0,
+        "mean_ms": 0.3272818119762465,
+        "viol_total": 0.15840220385674933,
+        "viol_reported": 0.0,
+        "drop_rate": 0.15840220385674933,
+        "p99_delivered_ms": 0.4483131479785684,
+        "n_tasks": 14520
+      }
+    ],
+    "static_heuristic": {
+      "n_k": 525.0,
+      "mean_ms": 0.3031290011876765,
+      "viol_total": 6.1570247933884295,
+      "viol_reported": 0.0,
+      "drop_rate": 6.1570247933884295,
+      "p99_delivered_ms": 0.6021629059720411,
+      "n_tasks": 14520
+    },
+    "adaptive_heuristic": {
+      "n_k": 370.0,
+      "mean_ms": 0.2790608684500757,
+      "viol_total": 0.15840220385674933,
+      "viol_reported": 0.0,
+      "drop_rate": 0.15840220385674933,
+      "p99_delivered_ms": 0.4319899312867301,
+      "n_tasks": 14520
+    },
+    "trained": {
+      "FedPPO-QR": [
+        {
+          "seed": 0,
+          "n_k": 732.0,
+          "mean_ms": 0.3222217369061222,
+          "viol_total": 8.285123966942148,
+          "viol_reported": 0.0,
+          "drop_rate": 8.285123966942148,
+          "p99_delivered_ms": 0.6525764583942454,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 442.0,
+          "mean_ms": 0.32055280794298263,
+          "viol_total": 36.63911845730027,
+          "viol_reported": 0.0,
+          "drop_rate": 36.63911845730027,
+          "p99_delivered_ms": 0.6670121416488255,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 418.0,
+          "mean_ms": 0.3067175400934409,
+          "viol_total": 17.823691460055098,
+          "viol_reported": 0.0,
+          "drop_rate": 17.823691460055098,
+          "p99_delivered_ms": 0.6793882895203643,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 401.0,
+          "mean_ms": 0.2995345804802988,
+          "viol_total": 15.144628099173554,
+          "viol_reported": 0.0,
+          "drop_rate": 15.144628099173554,
+          "p99_delivered_ms": 0.6395720694165835,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 451.0,
+          "mean_ms": 0.31652821615469917,
+          "viol_total": 35.544077134986225,
+          "viol_reported": 0.0,
+          "drop_rate": 35.544077134986225,
+          "p99_delivered_ms": 0.6292584780541898,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 450.0,
+          "mean_ms": 0.3118925375641355,
+          "viol_total": 30.59228650137741,
+          "viol_reported": 0.0,
+          "drop_rate": 30.59228650137741,
+          "p99_delivered_ms": 0.6350507574127199,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 444.0,
+          "mean_ms": 0.3016374405241921,
+          "viol_total": 16.108815426997243,
+          "viol_reported": 0.0,
+          "drop_rate": 16.108815426997243,
+          "p99_delivered_ms": 0.6481534481257365,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 485.0,
+          "mean_ms": 0.31730067368485687,
+          "viol_total": 11.391184573002755,
+          "viol_reported": 0.0,
+          "drop_rate": 11.391184573002755,
+          "p99_delivered_ms": 0.7122880210860532,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 640.0,
+          "mean_ms": 0.31242260580517156,
+          "viol_total": 4.669421487603306,
+          "viol_reported": 0.0,
+          "drop_rate": 4.669421487603306,
+          "p99_delivered_ms": 0.678768540598427,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 285.0,
+          "mean_ms": 0.31913043042460154,
+          "viol_total": 39.02203856749311,
+          "viol_reported": 0.0,
+          "drop_rate": 39.02203856749311,
+          "p99_delivered_ms": 0.6616019326095453,
+          "n_tasks": 14520
+        }
+      ],
+      "FedPPO-Mean": [
+        {
+          "seed": 0,
+          "n_k": 464.0,
+          "mean_ms": 0.3183377368739583,
+          "viol_total": 29.94490358126722,
+          "viol_reported": 0.0,
+          "drop_rate": 29.94490358126722,
+          "p99_delivered_ms": 0.693849852259848,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 589.0,
+          "mean_ms": 0.36849058040242455,
+          "viol_total": 61.13636363636363,
+          "viol_reported": 0.0,
+          "drop_rate": 61.13636363636363,
+          "p99_delivered_ms": 0.6178972558571508,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 407.0,
+          "mean_ms": 0.3149527228917333,
+          "viol_total": 16.267217630853995,
+          "viol_reported": 0.0,
+          "drop_rate": 16.267217630853995,
+          "p99_delivered_ms": 0.6842666442942187,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 409.0,
+          "mean_ms": 0.3015801825361335,
+          "viol_total": 22.789256198347108,
+          "viol_reported": 0.0,
+          "drop_rate": 22.789256198347108,
+          "p99_delivered_ms": 0.6582375649363494,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 439.0,
+          "mean_ms": 0.31995362323734955,
+          "viol_total": 31.852617079889807,
+          "viol_reported": 0.0,
+          "drop_rate": 31.852617079889807,
+          "p99_delivered_ms": 0.6304095604688221,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 412.0,
+          "mean_ms": 0.33748051487310227,
+          "viol_total": 52.28650137741047,
+          "viol_reported": 0.0,
+          "drop_rate": 52.28650137741047,
+          "p99_delivered_ms": 0.6539996391516342,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 427.0,
+          "mean_ms": 0.31025253989732154,
+          "viol_total": 20.826446280991735,
+          "viol_reported": 0.0,
+          "drop_rate": 20.826446280991735,
+          "p99_delivered_ms": 0.7050239600246764,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 452.0,
+          "mean_ms": 0.31312355939088393,
+          "viol_total": 12.465564738292011,
+          "viol_reported": 0.0,
+          "drop_rate": 12.465564738292011,
+          "p99_delivered_ms": 0.7002259315959954,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 528.0,
+          "mean_ms": 0.32751046150321506,
+          "viol_total": 14.600550964187327,
+          "viol_reported": 0.0,
+          "drop_rate": 14.600550964187327,
+          "p99_delivered_ms": 0.6661776333438288,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 463.0,
+          "mean_ms": 0.3042125123693424,
+          "viol_total": 9.786501377410469,
+          "viol_reported": 0.0,
+          "drop_rate": 9.786501377410469,
+          "p99_delivered_ms": 0.6486650189889716,
+          "n_tasks": 14520
+        }
+      ],
+      "Centralized-QR": [
+        {
+          "seed": 0,
+          "n_k": 852.0,
+          "mean_ms": 0.35030122052712187,
+          "viol_total": 9.22176308539945,
+          "viol_reported": 0.0,
+          "drop_rate": 9.22176308539945,
+          "p99_delivered_ms": 0.6110489258162418,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 361.0,
+          "mean_ms": 0.3676190895330822,
+          "viol_total": 45.764462809917354,
+          "viol_reported": 0.0,
+          "drop_rate": 45.764462809917354,
+          "p99_delivered_ms": 0.7534530339491767,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 859.0,
+          "mean_ms": 0.33571558200422724,
+          "viol_total": 0.4476584022038568,
+          "viol_reported": 0.0,
+          "drop_rate": 0.4476584022038568,
+          "p99_delivered_ms": 0.653839600294672,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 423.0,
+          "mean_ms": 0.30223863106645,
+          "viol_total": 15.612947658402204,
+          "viol_reported": 0.0,
+          "drop_rate": 15.612947658402204,
+          "p99_delivered_ms": 0.6172465158626819,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 798.0,
+          "mean_ms": 0.3271443358233749,
+          "viol_total": 9.497245179063361,
+          "viol_reported": 0.0,
+          "drop_rate": 9.497245179063361,
+          "p99_delivered_ms": 0.6140307026252584,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 464.0,
+          "mean_ms": 0.3176539577653391,
+          "viol_total": 18.236914600550964,
+          "viol_reported": 0.0,
+          "drop_rate": 18.236914600550964,
+          "p99_delivered_ms": 0.6860251169399337,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 178.0,
+          "mean_ms": 0.3303152070891829,
+          "viol_total": 61.866391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 61.866391184573,
+          "p99_delivered_ms": 0.6017351496661925,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 851.0,
+          "mean_ms": 0.43133038263212964,
+          "viol_total": 82.76859504132231,
+          "viol_reported": 0.0,
+          "drop_rate": 82.76859504132231,
+          "p99_delivered_ms": 0.6613196242535804,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 899.0,
+          "mean_ms": 0.3355105704244364,
+          "viol_total": 6.225895316804408,
+          "viol_reported": 0.0,
+          "drop_rate": 6.225895316804408,
+          "p99_delivered_ms": 0.6204995206922279,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 164.0,
+          "mean_ms": 0.34586620309724503,
+          "viol_total": 67.27961432506888,
+          "viol_reported": 0.0,
+          "drop_rate": 67.27961432506888,
+          "p99_delivered_ms": 0.6013832132322344,
+          "n_tasks": 14520
+        }
+      ],
+      "FedAvg-DDQN": [
+        {
+          "seed": 0,
+          "n_k": 525.0,
+          "mean_ms": 0.29858982370777737,
+          "viol_total": 4.6143250688705235,
+          "viol_reported": 0.0,
+          "drop_rate": 4.6143250688705235,
+          "p99_delivered_ms": 0.524114397176905,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 525.0,
+          "mean_ms": 0.30148015828612945,
+          "viol_total": 4.6143250688705235,
+          "viol_reported": 0.0,
+          "drop_rate": 4.6143250688705235,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 525.0,
+          "mean_ms": 0.30151187494344617,
+          "viol_total": 4.696969696969696,
+          "viol_reported": 0.0,
+          "drop_rate": 4.696969696969696,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 525.0,
+          "mean_ms": 0.3015618382995107,
+          "viol_total": 4.676308539944904,
+          "viol_reported": 0.0,
+          "drop_rate": 4.676308539944904,
+          "p99_delivered_ms": 0.5880123595734074,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 525.0,
+          "mean_ms": 0.30270994765565,
+          "viol_total": 5.254820936639119,
+          "viol_reported": 0.0,
+          "drop_rate": 5.254820936639119,
+          "p99_delivered_ms": 0.5870821554749036,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 525.0,
+          "mean_ms": 0.29858982370777737,
+          "viol_total": 4.6143250688705235,
+          "viol_reported": 0.0,
+          "drop_rate": 4.6143250688705235,
+          "p99_delivered_ms": 0.524114397176905,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 525.0,
+          "mean_ms": 0.3015258984800378,
+          "viol_total": 12.265840220385675,
+          "viol_reported": 0.0,
+          "drop_rate": 12.265840220385675,
+          "p99_delivered_ms": 0.6011631825203978,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 287.0,
+          "mean_ms": 0.31188959956394213,
+          "viol_total": 29.44214876033058,
+          "viol_reported": 0.0,
+          "drop_rate": 29.44214876033058,
+          "p99_delivered_ms": 0.6177754422559179,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 525.0,
+          "mean_ms": 0.3033436553094653,
+          "viol_total": 9.869146005509641,
+          "viol_reported": 0.0,
+          "drop_rate": 9.869146005509641,
+          "p99_delivered_ms": 0.5695348718127142,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 525.0,
+          "mean_ms": 0.29872339868708925,
+          "viol_total": 4.607438016528926,
+          "viol_reported": 0.0,
+          "drop_rate": 4.607438016528926,
+          "p99_delivered_ms": 0.5241079125377353,
+          "n_tasks": 14520
+        }
+      ]
+    }
+  },
+  {
+    "factor": "power",
+    "label": "P_k = 20 dBm",
+    "pmax_dbm": 20.0,
+    "fmax_ghz": 8.0,
+    "allocation": "own",
+    "sweep": [
+      {
+        "n_k": 150.0,
+        "mean_ms": 0.3745022780449578,
+        "viol_total": 82.66528925619835,
+        "viol_reported": 0.0,
+        "drop_rate": 82.66528925619835,
+        "p99_delivered_ms": 0.6882017621723361,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 200.0,
+        "mean_ms": 0.354032822499115,
+        "viol_total": 63.77410468319559,
+        "viol_reported": 0.0,
+        "drop_rate": 63.77410468319559,
+        "p99_delivered_ms": 0.6281330331763185,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 250.0,
+        "mean_ms": 0.33960212613056073,
+        "viol_total": 49.269972451790636,
+        "viol_reported": 0.0,
+        "drop_rate": 49.269972451790636,
+        "p99_delivered_ms": 0.6615818565501276,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 300.0,
+        "mean_ms": 0.32756598363942063,
+        "viol_total": 36.27410468319559,
+        "viol_reported": 0.0,
+        "drop_rate": 36.27410468319559,
+        "p99_delivered_ms": 0.663427225045372,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 350.0,
+        "mean_ms": 0.31767500973758805,
+        "viol_total": 25.647382920110196,
+        "viol_reported": 0.0,
+        "drop_rate": 25.647382920110196,
+        "p99_delivered_ms": 0.6487225360703471,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 400.0,
+        "mean_ms": 0.3103092481168986,
+        "viol_total": 17.506887052341597,
+        "viol_reported": 0.0,
+        "drop_rate": 17.506887052341597,
+        "p99_delivered_ms": 0.6439195484934128,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 450.0,
+        "mean_ms": 0.30576794494840354,
+        "viol_total": 11.356749311294765,
+        "viol_reported": 0.0,
+        "drop_rate": 11.356749311294765,
+        "p99_delivered_ms": 0.6377063446219489,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 500.0,
+        "mean_ms": 0.3032187543821956,
+        "viol_total": 7.62396694214876,
+        "viol_reported": 0.0,
+        "drop_rate": 7.62396694214876,
+        "p99_delivered_ms": 0.6083340571596318,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 525.0,
+        "mean_ms": 0.3030528877176922,
+        "viol_total": 6.143250688705234,
+        "viol_reported": 0.0,
+        "drop_rate": 6.143250688705234,
+        "p99_delivered_ms": 0.6021629059720411,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 550.0,
+        "mean_ms": 0.3032223513445406,
+        "viol_total": 4.820936639118457,
+        "viol_reported": 0.0,
+        "drop_rate": 4.820936639118457,
+        "p99_delivered_ms": 0.5910227969376075,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 600.0,
+        "mean_ms": 0.30496775749311483,
+        "viol_total": 3.0303030303030303,
+        "viol_reported": 0.0,
+        "drop_rate": 3.0303030303030303,
+        "p99_delivered_ms": 0.5813186399545458,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 650.0,
+        "mean_ms": 0.30767765942335334,
+        "viol_total": 1.8801652892561984,
+        "viol_reported": 0.0,
+        "drop_rate": 1.8801652892561984,
+        "p99_delivered_ms": 0.5332794752901245,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 700.0,
+        "mean_ms": 0.31050794024476597,
+        "viol_total": 1.115702479338843,
+        "viol_reported": 0.0,
+        "drop_rate": 1.115702479338843,
+        "p99_delivered_ms": 0.5058257118303643,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 750.0,
+        "mean_ms": 0.31397612466381614,
+        "viol_total": 0.5991735537190083,
+        "viol_reported": 0.0,
+        "drop_rate": 0.5991735537190083,
+        "p99_delivered_ms": 0.4559143821336699,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 800.0,
+        "mean_ms": 0.3179550736912115,
+        "viol_total": 0.3856749311294766,
+        "viol_reported": 0.0,
+        "drop_rate": 0.3856749311294766,
+        "p99_delivered_ms": 0.4383131479785684,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 850.0,
+        "mean_ms": 0.3225691670433886,
+        "viol_total": 0.27548209366391185,
+        "viol_reported": 0.0,
+        "drop_rate": 0.27548209366391185,
+        "p99_delivered_ms": 0.4433131479785684,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 900.0,
+        "mean_ms": 0.3272650027446139,
+        "viol_total": 0.15151515151515152,
+        "viol_reported": 0.0,
+        "drop_rate": 0.15151515151515152,
+        "p99_delivered_ms": 0.4483131479785684,
+        "n_tasks": 14520
+      }
+    ],
+    "static_heuristic": {
+      "n_k": 525.0,
+      "mean_ms": 0.3030528877176922,
+      "viol_total": 6.143250688705234,
+      "viol_reported": 0.0,
+      "drop_rate": 6.143250688705234,
+      "p99_delivered_ms": 0.6021629059720411,
+      "n_tasks": 14520
+    },
+    "adaptive_heuristic": {
+      "n_k": 370.0,
+      "mean_ms": 0.278964865003567,
+      "viol_total": 0.15151515151515152,
+      "viol_reported": 0.0,
+      "drop_rate": 0.15151515151515152,
+      "p99_delivered_ms": 0.43121162778748573,
+      "n_tasks": 14520
+    },
+    "trained": {
+      "FedPPO-QR": [
+        {
+          "seed": 0,
+          "n_k": 732.0,
+          "mean_ms": 0.32223792273725066,
+          "viol_total": 8.271349862258953,
+          "viol_reported": 0.0,
+          "drop_rate": 8.271349862258953,
+          "p99_delivered_ms": 0.6533709221299752,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 442.0,
+          "mean_ms": 0.32046101557160017,
+          "viol_total": 36.59090909090909,
+          "viol_reported": 0.0,
+          "drop_rate": 36.59090909090909,
+          "p99_delivered_ms": 0.6667549794285443,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 418.0,
+          "mean_ms": 0.30654026785249716,
+          "viol_total": 17.754820936639117,
+          "viol_reported": 0.0,
+          "drop_rate": 17.754820936639117,
+          "p99_delivered_ms": 0.6789142187391228,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 401.0,
+          "mean_ms": 0.2994277729042866,
+          "viol_total": 15.082644628099173,
+          "viol_reported": 0.0,
+          "drop_rate": 15.082644628099173,
+          "p99_delivered_ms": 0.6393203461195232,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 451.0,
+          "mean_ms": 0.31646626879865564,
+          "viol_total": 35.51652892561983,
+          "viol_reported": 0.0,
+          "drop_rate": 35.51652892561983,
+          "p99_delivered_ms": 0.6281960343916283,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 450.0,
+          "mean_ms": 0.31181864771740253,
+          "viol_total": 30.55785123966942,
+          "viol_reported": 0.0,
+          "drop_rate": 30.55785123966942,
+          "p99_delivered_ms": 0.6348282773616105,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 444.0,
+          "mean_ms": 0.30157241231432946,
+          "viol_total": 16.06749311294766,
+          "viol_reported": 0.0,
+          "drop_rate": 16.06749311294766,
+          "p99_delivered_ms": 0.6462380296065734,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 485.0,
+          "mean_ms": 0.31711368250032884,
+          "viol_total": 11.356749311294765,
+          "viol_reported": 0.0,
+          "drop_rate": 11.356749311294765,
+          "p99_delivered_ms": 0.7119968676424923,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 640.0,
+          "mean_ms": 0.3123493510407926,
+          "viol_total": 4.662534435261708,
+          "viol_reported": 0.0,
+          "drop_rate": 4.662534435261708,
+          "p99_delivered_ms": 0.6787576403186825,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 285.0,
+          "mean_ms": 0.3190402213599394,
+          "viol_total": 38.946280991735534,
+          "viol_reported": 0.0,
+          "drop_rate": 38.946280991735534,
+          "p99_delivered_ms": 0.6611936266574152,
+          "n_tasks": 14520
+        }
+      ],
+      "FedPPO-Mean": [
+        {
+          "seed": 0,
+          "n_k": 464.0,
+          "mean_ms": 0.31815641423434615,
+          "viol_total": 29.896694214876035,
+          "viol_reported": 0.0,
+          "drop_rate": 29.896694214876035,
+          "p99_delivered_ms": 0.6903729892764866,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 589.0,
+          "mean_ms": 0.36849057500954174,
+          "viol_total": 61.13636363636363,
+          "viol_reported": 0.0,
+          "drop_rate": 61.13636363636363,
+          "p99_delivered_ms": 0.6178972558571508,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 407.0,
+          "mean_ms": 0.31481189912551777,
+          "viol_total": 16.205234159779614,
+          "viol_reported": 0.0,
+          "drop_rate": 16.205234159779614,
+          "p99_delivered_ms": 0.6842638871012902,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 409.0,
+          "mean_ms": 0.301516692275185,
+          "viol_total": 22.71349862258953,
+          "viol_reported": 0.0,
+          "drop_rate": 22.71349862258953,
+          "p99_delivered_ms": 0.6583918928719141,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 439.0,
+          "mean_ms": 0.31980559091021965,
+          "viol_total": 31.78374655647383,
+          "viol_reported": 0.0,
+          "drop_rate": 31.78374655647383,
+          "p99_delivered_ms": 0.6291287276253451,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 412.0,
+          "mean_ms": 0.33733418505748347,
+          "viol_total": 52.23829201101928,
+          "viol_reported": 0.0,
+          "drop_rate": 52.23829201101928,
+          "p99_delivered_ms": 0.6537808897980536,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 427.0,
+          "mean_ms": 0.31018920464225175,
+          "viol_total": 20.764462809917354,
+          "viol_reported": 0.0,
+          "drop_rate": 20.764462809917354,
+          "p99_delivered_ms": 0.7050576152051693,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 452.0,
+          "mean_ms": 0.3130273491107057,
+          "viol_total": 12.424242424242424,
+          "viol_reported": 0.0,
+          "drop_rate": 12.424242424242424,
+          "p99_delivered_ms": 0.6997450753017587,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 528.0,
+          "mean_ms": 0.32744748952549,
+          "viol_total": 14.579889807162536,
+          "viol_reported": 0.0,
+          "drop_rate": 14.579889807162536,
+          "p99_delivered_ms": 0.6657132265679332,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 463.0,
+          "mean_ms": 0.3041246097602989,
+          "viol_total": 9.75206611570248,
+          "viol_reported": 0.0,
+          "drop_rate": 9.75206611570248,
+          "p99_delivered_ms": 0.6411896380438685,
+          "n_tasks": 14520
+        }
+      ],
+      "Centralized-QR": [
+        {
+          "seed": 0,
+          "n_k": 852.0,
+          "mean_ms": 0.3502665447487281,
+          "viol_total": 9.201101928374655,
+          "viol_reported": 0.0,
+          "drop_rate": 9.201101928374655,
+          "p99_delivered_ms": 0.6110488707116086,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 361.0,
+          "mean_ms": 0.3666907472210586,
+          "viol_total": 45.654269972451786,
+          "viol_reported": 0.0,
+          "drop_rate": 45.654269972451786,
+          "p99_delivered_ms": 0.7527965153787348,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 859.0,
+          "mean_ms": 0.33566038743596477,
+          "viol_total": 0.4407713498622589,
+          "viol_reported": 0.0,
+          "drop_rate": 0.4407713498622589,
+          "p99_delivered_ms": 0.653830372395432,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 423.0,
+          "mean_ms": 0.30216987013861984,
+          "viol_total": 15.564738292011018,
+          "viol_reported": 0.0,
+          "drop_rate": 15.564738292011018,
+          "p99_delivered_ms": 0.6161030455751989,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 798.0,
+          "mean_ms": 0.32707994334467205,
+          "viol_total": 9.490358126721764,
+          "viol_reported": 0.0,
+          "drop_rate": 9.490358126721764,
+          "p99_delivered_ms": 0.6130528448837202,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 464.0,
+          "mean_ms": 0.3175819373866324,
+          "viol_total": 18.181818181818183,
+          "viol_reported": 0.0,
+          "drop_rate": 18.181818181818183,
+          "p99_delivered_ms": 0.6860994048736515,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 178.0,
+          "mean_ms": 0.3299168732220881,
+          "viol_total": 61.659779614325075,
+          "viol_reported": 0.0,
+          "drop_rate": 61.659779614325075,
+          "p99_delivered_ms": 0.5960013104455866,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 851.0,
+          "mean_ms": 0.43132177382150244,
+          "viol_total": 82.76859504132231,
+          "viol_reported": 0.0,
+          "drop_rate": 82.76859504132231,
+          "p99_delivered_ms": 0.6613196242535804,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 899.0,
+          "mean_ms": 0.3355027734529779,
+          "viol_total": 6.212121212121212,
+          "viol_reported": 0.0,
+          "drop_rate": 6.212121212121212,
+          "p99_delivered_ms": 0.6204992732710993,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 164.0,
+          "mean_ms": 0.3455884932078372,
+          "viol_total": 67.05234159779614,
+          "viol_reported": 0.0,
+          "drop_rate": 67.05234159779614,
+          "p99_delivered_ms": 0.600797682153464,
+          "n_tasks": 14520
+        }
+      ],
+      "FedAvg-DDQN": [
+        {
+          "seed": 0,
+          "n_k": 525.0,
+          "mean_ms": 0.29854814549950115,
+          "viol_total": 4.6005509641873275,
+          "viol_reported": 0.0,
+          "drop_rate": 4.6005509641873275,
+          "p99_delivered_ms": 0.5237836805792553,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 525.0,
+          "mean_ms": 0.3014337998824854,
+          "viol_total": 4.6005509641873275,
+          "viol_reported": 0.0,
+          "drop_rate": 4.6005509641873275,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 525.0,
+          "mean_ms": 0.30144829890894814,
+          "viol_total": 4.683195592286501,
+          "viol_reported": 0.0,
+          "drop_rate": 4.683195592286501,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 525.0,
+          "mean_ms": 0.30151547989586663,
+          "viol_total": 4.662534435261708,
+          "viol_reported": 0.0,
+          "drop_rate": 4.662534435261708,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 525.0,
+          "mean_ms": 0.3026440935933917,
+          "viol_total": 5.241046831955923,
+          "viol_reported": 0.0,
+          "drop_rate": 5.241046831955923,
+          "p99_delivered_ms": 0.5861617081657098,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 525.0,
+          "mean_ms": 0.29854814549950115,
+          "viol_total": 4.6005509641873275,
+          "viol_reported": 0.0,
+          "drop_rate": 4.6005509641873275,
+          "p99_delivered_ms": 0.5237836805792553,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 525.0,
+          "mean_ms": 0.30145367801545286,
+          "viol_total": 12.203856749311296,
+          "viol_reported": 0.0,
+          "drop_rate": 12.203856749311296,
+          "p99_delivered_ms": 0.600014589677191,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 287.0,
+          "mean_ms": 0.31178017977637534,
+          "viol_total": 29.3732782369146,
+          "viol_reported": 0.0,
+          "drop_rate": 29.3732782369146,
+          "p99_delivered_ms": 0.6176711191737667,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 525.0,
+          "mean_ms": 0.3032722080602732,
+          "viol_total": 9.827823691460056,
+          "viol_reported": 0.0,
+          "drop_rate": 9.827823691460056,
+          "p99_delivered_ms": 0.5693500429440281,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 525.0,
+          "mean_ms": 0.298681720478813,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.5237836805792553,
+          "n_tasks": 14520
+        }
+      ]
+    }
+  },
+  {
+    "factor": "power",
+    "label": "P_k = 23 dBm",
+    "pmax_dbm": 23.0,
+    "fmax_ghz": 8.0,
+    "allocation": "own",
+    "sweep": [
+      {
+        "n_k": 150.0,
+        "mean_ms": 0.37424202854001043,
+        "viol_total": 82.47933884297521,
+        "viol_reported": 0.0,
+        "drop_rate": 82.47933884297521,
+        "p99_delivered_ms": 0.6767067019176103,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 200.0,
+        "mean_ms": 0.3538012831090812,
+        "viol_total": 63.64325068870523,
+        "viol_reported": 0.0,
+        "drop_rate": 63.64325068870523,
+        "p99_delivered_ms": 0.6335907752185468,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 250.0,
+        "mean_ms": 0.3395377189414086,
+        "viol_total": 49.18732782369146,
+        "viol_reported": 0.0,
+        "drop_rate": 49.18732782369146,
+        "p99_delivered_ms": 0.6615641620662734,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 300.0,
+        "mean_ms": 0.32745701376922065,
+        "viol_total": 36.23278236914601,
+        "viol_reported": 0.0,
+        "drop_rate": 36.23278236914601,
+        "p99_delivered_ms": 0.663427225045372,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 350.0,
+        "mean_ms": 0.31758235192197143,
+        "viol_total": 25.626721763085396,
+        "viol_reported": 0.0,
+        "drop_rate": 25.626721763085396,
+        "p99_delivered_ms": 0.6486995538509952,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 400.0,
+        "mean_ms": 0.3102153906907565,
+        "viol_total": 17.486225895316803,
+        "viol_reported": 0.0,
+        "drop_rate": 17.486225895316803,
+        "p99_delivered_ms": 0.6437883785230822,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 450.0,
+        "mean_ms": 0.30571670045506294,
+        "viol_total": 11.349862258953168,
+        "viol_reported": 0.0,
+        "drop_rate": 11.349862258953168,
+        "p99_delivered_ms": 0.6369899312867302,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 500.0,
+        "mean_ms": 0.30318138327704097,
+        "viol_total": 7.610192837465565,
+        "viol_reported": 0.0,
+        "drop_rate": 7.610192837465565,
+        "p99_delivered_ms": 0.6083281326671175,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 525.0,
+        "mean_ms": 0.3030675907720444,
+        "viol_total": 6.129476584022039,
+        "viol_reported": 0.0,
+        "drop_rate": 6.129476584022039,
+        "p99_delivered_ms": 0.6021629059720411,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 550.0,
+        "mean_ms": 0.30320554211290807,
+        "viol_total": 4.81404958677686,
+        "viol_reported": 0.0,
+        "drop_rate": 4.81404958677686,
+        "p99_delivered_ms": 0.5910227969376075,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 600.0,
+        "mean_ms": 0.3049509482614822,
+        "viol_total": 3.0234159779614322,
+        "viol_reported": 0.0,
+        "drop_rate": 3.0234159779614322,
+        "p99_delivered_ms": 0.5813186399545458,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 650.0,
+        "mean_ms": 0.30767765942335334,
+        "viol_total": 1.8801652892561984,
+        "viol_reported": 0.0,
+        "drop_rate": 1.8801652892561984,
+        "p99_delivered_ms": 0.5332794752901245,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 700.0,
+        "mean_ms": 0.31050794024476597,
+        "viol_total": 1.115702479338843,
+        "viol_reported": 0.0,
+        "drop_rate": 1.115702479338843,
+        "p99_delivered_ms": 0.5058257118303643,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 750.0,
+        "mean_ms": 0.31397612466381614,
+        "viol_total": 0.5991735537190083,
+        "viol_reported": 0.0,
+        "drop_rate": 0.5991735537190083,
+        "p99_delivered_ms": 0.4559143821336699,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 800.0,
+        "mean_ms": 0.3179550736912115,
+        "viol_total": 0.3856749311294766,
+        "viol_reported": 0.0,
+        "drop_rate": 0.3856749311294766,
+        "p99_delivered_ms": 0.4383131479785684,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 850.0,
+        "mean_ms": 0.3225691670433886,
+        "viol_total": 0.27548209366391185,
+        "viol_reported": 0.0,
+        "drop_rate": 0.27548209366391185,
+        "p99_delivered_ms": 0.4433131479785684,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 900.0,
+        "mean_ms": 0.3272650027446139,
+        "viol_total": 0.15151515151515152,
+        "viol_reported": 0.0,
+        "drop_rate": 0.15151515151515152,
+        "p99_delivered_ms": 0.4483131479785684,
+        "n_tasks": 14520
+      }
+    ],
+    "static_heuristic": {
+      "n_k": 525.0,
+      "mean_ms": 0.3030675907720444,
+      "viol_total": 6.129476584022039,
+      "viol_reported": 0.0,
+      "drop_rate": 6.129476584022039,
+      "p99_delivered_ms": 0.6021629059720411,
+      "n_tasks": 14520
+    },
+    "adaptive_heuristic": {
+      "n_k": 369.0,
+      "mean_ms": 0.2789306983369004,
+      "viol_total": 0.15151515151515152,
+      "viol_reported": 0.0,
+      "drop_rate": 0.15151515151515152,
+      "p99_delivered_ms": 0.43121162778748573,
+      "n_tasks": 14520
+    },
+    "trained": {
+      "FedPPO-QR": [
+        {
+          "seed": 0,
+          "n_k": 732.0,
+          "mean_ms": 0.3222379085484394,
+          "viol_total": 8.271349862258953,
+          "viol_reported": 0.0,
+          "drop_rate": 8.271349862258953,
+          "p99_delivered_ms": 0.6533709221299752,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 442.0,
+          "mean_ms": 0.3203888468268511,
+          "viol_total": 36.58402203856749,
+          "viol_reported": 0.0,
+          "drop_rate": 36.58402203856749,
+          "p99_delivered_ms": 0.666713431712104,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 418.0,
+          "mean_ms": 0.30647398625545236,
+          "viol_total": 17.727272727272727,
+          "viol_reported": 0.0,
+          "drop_rate": 17.727272727272727,
+          "p99_delivered_ms": 0.678908160753756,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 401.0,
+          "mean_ms": 0.29942084932122787,
+          "viol_total": 15.068870523415978,
+          "viol_reported": 0.0,
+          "drop_rate": 15.068870523415978,
+          "p99_delivered_ms": 0.6408872875683551,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 451.0,
+          "mean_ms": 0.3164193572190827,
+          "viol_total": 35.50275482093664,
+          "viol_reported": 0.0,
+          "drop_rate": 35.50275482093664,
+          "p99_delivered_ms": 0.6281737473373225,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 450.0,
+          "mean_ms": 0.3117738408684236,
+          "viol_total": 30.544077134986225,
+          "viol_reported": 0.0,
+          "drop_rate": 30.544077134986225,
+          "p99_delivered_ms": 0.634824674840964,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 444.0,
+          "mean_ms": 0.30153556471697673,
+          "viol_total": 16.060606060606062,
+          "viol_reported": 0.0,
+          "drop_rate": 16.060606060606062,
+          "p99_delivered_ms": 0.646225903332155,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 485.0,
+          "mean_ms": 0.3170294306847683,
+          "viol_total": 11.34297520661157,
+          "viol_reported": 0.0,
+          "drop_rate": 11.34297520661157,
+          "p99_delivered_ms": 0.7119892435640129,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 640.0,
+          "mean_ms": 0.3123494136138854,
+          "viol_total": 4.662534435261708,
+          "viol_reported": 0.0,
+          "drop_rate": 4.662534435261708,
+          "p99_delivered_ms": 0.6787576403186825,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 285.0,
+          "mean_ms": 0.318946482457635,
+          "viol_total": 38.89118457300276,
+          "viol_reported": 0.0,
+          "drop_rate": 38.89118457300276,
+          "p99_delivered_ms": 0.6615602387751826,
+          "n_tasks": 14520
+        }
+      ],
+      "FedPPO-Mean": [
+        {
+          "seed": 0,
+          "n_k": 464.0,
+          "mean_ms": 0.3181005752015562,
+          "viol_total": 29.88980716253444,
+          "viol_reported": 0.0,
+          "drop_rate": 29.88980716253444,
+          "p99_delivered_ms": 0.6903424187728587,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 589.0,
+          "mean_ms": 0.3684026393685909,
+          "viol_total": 61.08815426997245,
+          "viol_reported": 0.0,
+          "drop_rate": 61.08815426997245,
+          "p99_delivered_ms": 0.6177738167771822,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 407.0,
+          "mean_ms": 0.3147345733063136,
+          "viol_total": 16.191460055096417,
+          "viol_reported": 0.0,
+          "drop_rate": 16.191460055096417,
+          "p99_delivered_ms": 0.6842632743917504,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 409.0,
+          "mean_ms": 0.3014608587696083,
+          "viol_total": 22.706611570247933,
+          "viol_reported": 0.0,
+          "drop_rate": 22.706611570247933,
+          "p99_delivered_ms": 0.6583911079901026,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 439.0,
+          "mean_ms": 0.31975906966908674,
+          "viol_total": 31.776859504132233,
+          "viol_reported": 0.0,
+          "drop_rate": 31.776859504132233,
+          "p99_delivered_ms": 0.6291153955290556,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 412.0,
+          "mean_ms": 0.33726116573134357,
+          "viol_total": 52.231404958677686,
+          "viol_reported": 0.0,
+          "drop_rate": 52.231404958677686,
+          "p99_delivered_ms": 0.6537496398903984,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 427.0,
+          "mean_ms": 0.31014002138241176,
+          "viol_total": 20.736914600550964,
+          "viol_reported": 0.0,
+          "drop_rate": 20.736914600550964,
+          "p99_delivered_ms": 0.7050561358565763,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 452.0,
+          "mean_ms": 0.31295987497960115,
+          "viol_total": 12.40358126721763,
+          "viol_reported": 0.0,
+          "drop_rate": 12.40358126721763,
+          "p99_delivered_ms": 0.6997387061065093,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 528.0,
+          "mean_ms": 0.3274408772998481,
+          "viol_total": 14.566115702479337,
+          "viol_reported": 0.0,
+          "drop_rate": 14.566115702479337,
+          "p99_delivered_ms": 0.6657125300081969,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 463.0,
+          "mean_ms": 0.3040516513496809,
+          "viol_total": 9.745179063360881,
+          "viol_reported": 0.0,
+          "drop_rate": 9.745179063360881,
+          "p99_delivered_ms": 0.641170937757634,
+          "n_tasks": 14520
+        }
+      ],
+      "Centralized-QR": [
+        {
+          "seed": 0,
+          "n_k": 852.0,
+          "mean_ms": 0.3502579357870947,
+          "viol_total": 9.201101928374655,
+          "viol_reported": 0.0,
+          "drop_rate": 9.201101928374655,
+          "p99_delivered_ms": 0.6110488707116086,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 361.0,
+          "mean_ms": 0.36635839541120835,
+          "viol_total": 45.60606060606061,
+          "viol_reported": 0.0,
+          "drop_rate": 45.60606060606061,
+          "p99_delivered_ms": 0.7533112662472066,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 859.0,
+          "mean_ms": 0.3356603890773382,
+          "viol_total": 0.4407713498622589,
+          "viol_reported": 0.0,
+          "drop_rate": 0.4407713498622589,
+          "p99_delivered_ms": 0.653830372395432,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 423.0,
+          "mean_ms": 0.30210302874134337,
+          "viol_total": 15.550964187327823,
+          "viol_reported": 0.0,
+          "drop_rate": 15.550964187327823,
+          "p99_delivered_ms": 0.6160834225959796,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 798.0,
+          "mean_ms": 0.3270363301878096,
+          "viol_total": 9.483471074380164,
+          "viol_reported": 0.0,
+          "drop_rate": 9.483471074380164,
+          "p99_delivered_ms": 0.611842132655892,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 464.0,
+          "mean_ms": 0.31754519983900814,
+          "viol_total": 18.168044077134986,
+          "viol_reported": 0.0,
+          "drop_rate": 18.168044077134986,
+          "p99_delivered_ms": 0.6863607769657454,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 178.0,
+          "mean_ms": 0.32977801602516377,
+          "viol_total": 61.56336088154269,
+          "viol_reported": 0.0,
+          "drop_rate": 61.56336088154269,
+          "p99_delivered_ms": 0.5941677425156202,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 851.0,
+          "mean_ms": 0.4313217738310083,
+          "viol_total": 82.76859504132231,
+          "viol_reported": 0.0,
+          "drop_rate": 82.76859504132231,
+          "p99_delivered_ms": 0.6613196242535804,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 899.0,
+          "mean_ms": 0.33550052415230225,
+          "viol_total": 6.205234159779614,
+          "viol_reported": 0.0,
+          "drop_rate": 6.205234159779614,
+          "p99_delivered_ms": 0.620499149560535,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 164.0,
+          "mean_ms": 0.34543300706239033,
+          "viol_total": 66.96280991735537,
+          "viol_reported": 0.0,
+          "drop_rate": 66.96280991735537,
+          "p99_delivered_ms": 0.6031916549462208,
+          "n_tasks": 14520
+        }
+      ],
+      "FedAvg-DDQN": [
+        {
+          "seed": 0,
+          "n_k": 525.0,
+          "mean_ms": 0.29853994508329557,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.5237836805792553,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 525.0,
+          "mean_ms": 0.3014207468367031,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 525.0,
+          "mean_ms": 0.30143524586316583,
+          "viol_total": 4.676308539944904,
+          "viol_reported": 0.0,
+          "drop_rate": 4.676308539944904,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 525.0,
+          "mean_ms": 0.30150242685008427,
+          "viol_total": 4.655647382920111,
+          "viol_reported": 0.0,
+          "drop_rate": 4.655647382920111,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 525.0,
+          "mean_ms": 0.302658796647744,
+          "viol_total": 5.227272727272727,
+          "viol_reported": 0.0,
+          "drop_rate": 5.227272727272727,
+          "p99_delivered_ms": 0.5870821554749036,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 525.0,
+          "mean_ms": 0.29853994508329557,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.5237836805792553,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 525.0,
+          "mean_ms": 0.3014710319415434,
+          "viol_total": 12.169421487603307,
+          "viol_reported": 0.0,
+          "drop_rate": 12.169421487603307,
+          "p99_delivered_ms": 0.6012286103523273,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 287.0,
+          "mean_ms": 0.31173970780768656,
+          "viol_total": 29.318181818181817,
+          "viol_reported": 0.0,
+          "drop_rate": 29.318181818181817,
+          "p99_delivered_ms": 0.6182344638173815,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 525.0,
+          "mean_ms": 0.3032698196335012,
+          "viol_total": 9.820936639118457,
+          "viol_reported": 0.0,
+          "drop_rate": 9.820936639118457,
+          "p99_delivered_ms": 0.5722221680065538,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 525.0,
+          "mean_ms": 0.29867352006260733,
+          "viol_total": 4.586776859504132,
+          "viol_reported": 0.0,
+          "drop_rate": 4.586776859504132,
+          "p99_delivered_ms": 0.5237836805792553,
+          "n_tasks": 14520
+        }
+      ]
+    }
+  },
+  {
+    "factor": "cpu_capacity",
+    "label": "F_max = 6 GHz",
+    "pmax_dbm": 23.0,
+    "fmax_ghz": 6.0,
+    "allocation": "own",
+    "sweep": [
+      {
+        "n_k": 150.0,
+        "mean_ms": 0.38682970655656135,
+        "viol_total": 82.47933884297521,
+        "viol_reported": 0.0,
+        "drop_rate": 82.47933884297521,
+        "p99_delivered_ms": 0.7722756025568137,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 200.0,
+        "mean_ms": 0.3805183315650926,
+        "viol_total": 63.64325068870523,
+        "viol_reported": 0.0,
+        "drop_rate": 63.64325068870523,
+        "p99_delivered_ms": 0.7213745553118727,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 250.0,
+        "mean_ms": 0.37714590716522073,
+        "viol_total": 49.18732782369146,
+        "viol_reported": 0.0,
+        "drop_rate": 49.18732782369146,
+        "p99_delivered_ms": 0.7496582470096605,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 300.0,
+        "mean_ms": 0.37518602754169733,
+        "viol_total": 36.23278236914601,
+        "viol_reported": 0.0,
+        "drop_rate": 36.23278236914601,
+        "p99_delivered_ms": 0.7504141559462282,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 350.0,
+        "mean_ms": 0.37387759411451105,
+        "viol_total": 25.626721763085396,
+        "viol_reported": 0.0,
+        "drop_rate": 25.626721763085396,
+        "p99_delivered_ms": 0.7409865750489735,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 400.0,
+        "mean_ms": 0.37325263754176163,
+        "viol_total": 17.486225895316803,
+        "viol_reported": 0.0,
+        "drop_rate": 17.486225895316803,
+        "p99_delivered_ms": 0.7433674097483374,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 450.0,
+        "mean_ms": 0.37405305239738423,
+        "viol_total": 11.349862258953168,
+        "viol_reported": 0.0,
+        "drop_rate": 11.349862258953168,
+        "p99_delivered_ms": 0.7296583164879764,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 500.0,
+        "mean_ms": 0.3748370004759077,
+        "viol_total": 7.610192837465565,
+        "viol_reported": 0.0,
+        "drop_rate": 7.610192837465565,
+        "p99_delivered_ms": 0.7025306086679762,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 525.0,
+        "mean_ms": 0.3760902358135982,
+        "viol_total": 6.129476584022039,
+        "viol_reported": 0.0,
+        "drop_rate": 6.129476584022039,
+        "p99_delivered_ms": 0.6944995274338938,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 550.0,
+        "mean_ms": 0.37740077791362947,
+        "viol_total": 4.81404958677686,
+        "viol_reported": 0.0,
+        "drop_rate": 4.81404958677686,
+        "p99_delivered_ms": 0.6849454181753148,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 600.0,
+        "mean_ms": 0.3808276188022702,
+        "viol_total": 3.0234159779614322,
+        "viol_reported": 0.0,
+        "drop_rate": 3.0234159779614322,
+        "p99_delivered_ms": 0.6663242096231561,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 650.0,
+        "mean_ms": 0.38465320154518745,
+        "viol_total": 1.8801652892561984,
+        "viol_reported": 0.0,
+        "drop_rate": 1.8801652892561984,
+        "p99_delivered_ms": 0.6427126184231754,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 700.0,
+        "mean_ms": 0.3882151324475668,
+        "viol_total": 1.115702479338843,
+        "viol_reported": 0.0,
+        "drop_rate": 1.115702479338843,
+        "p99_delivered_ms": 0.6061594721529608,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 750.0,
+        "mean_ms": 0.3921856822882103,
+        "viol_total": 0.5991735537190083,
+        "viol_reported": 0.0,
+        "drop_rate": 0.5991735537190083,
+        "p99_delivered_ms": 0.5527508639714245,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 800.0,
+        "mean_ms": 0.39637524517873196,
+        "viol_total": 0.3856749311294766,
+        "viol_reported": 0.0,
+        "drop_rate": 0.3856749311294766,
+        "p99_delivered_ms": 0.5577508639714246,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 850.0,
+        "mean_ms": 0.40109888020844836,
+        "viol_total": 0.27548209366391185,
+        "viol_reported": 0.0,
+        "drop_rate": 0.27548209366391185,
+        "p99_delivered_ms": 0.5627508639714245,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 900.0,
+        "mean_ms": 0.4059200266163263,
+        "viol_total": 0.15151515151515152,
+        "viol_reported": 0.0,
+        "drop_rate": 0.15151515151515152,
+        "p99_delivered_ms": 0.5677508639714245,
+        "n_tasks": 14520
+      }
+    ],
+    "static_heuristic": {
+      "n_k": 525.0,
+      "mean_ms": 0.3760902358135982,
+      "viol_total": 6.129476584022039,
+      "viol_reported": 0.0,
+      "drop_rate": 6.129476584022039,
+      "p99_delivered_ms": 0.6944995274338938,
+      "n_tasks": 14520
+    },
+    "adaptive_heuristic": {
+      "n_k": 369.0,
+      "mean_ms": 0.35758572220861273,
+      "viol_total": 0.15151515151515152,
+      "viol_reported": 0.0,
+      "drop_rate": 0.15151515151515152,
+      "p99_delivered_ms": 0.5450168241339728,
+      "n_tasks": 14520
+    },
+    "trained": {
+      "FedPPO-QR": [
+        {
+          "seed": 0,
+          "n_k": 731.0,
+          "mean_ms": 0.3925191354366109,
+          "viol_total": 8.588154269972453,
+          "viol_reported": 0.13774104683195593,
+          "drop_rate": 8.450413223140496,
+          "p99_delivered_ms": 0.7896520211010746,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 442.0,
+          "mean_ms": 0.36416817129508133,
+          "viol_total": 35.943526170798904,
+          "viol_reported": 0.04132231404958678,
+          "drop_rate": 35.90220385674931,
+          "p99_delivered_ms": 0.8002263927274652,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 418.0,
+          "mean_ms": 0.3680127780122126,
+          "viol_total": 17.768595041322314,
+          "viol_reported": 0.06887052341597796,
+          "drop_rate": 17.699724517906336,
+          "p99_delivered_ms": 0.8061564987510176,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 401.0,
+          "mean_ms": 0.3639875672454372,
+          "viol_total": 15.165289256198347,
+          "viol_reported": 0.07575757575757576,
+          "drop_rate": 15.089531680440771,
+          "p99_delivered_ms": 0.7664942343500878,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 451.0,
+          "mean_ms": 0.3606898032438866,
+          "viol_total": 34.94490358126722,
+          "viol_reported": 0.02066115702479339,
+          "drop_rate": 34.92424242424242,
+          "p99_delivered_ms": 0.7483821215892597,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 450.0,
+          "mean_ms": 0.36019356717107776,
+          "viol_total": 30.55096418732782,
+          "viol_reported": 0.027548209366391182,
+          "drop_rate": 30.52341597796143,
+          "p99_delivered_ms": 0.7557623506387267,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 444.0,
+          "mean_ms": 0.3643949620489308,
+          "viol_total": 16.03994490358127,
+          "viol_reported": 0.06198347107438017,
+          "drop_rate": 15.977961432506888,
+          "p99_delivered_ms": 0.783638981574021,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 487.0,
+          "mean_ms": 0.38532505412408885,
+          "viol_total": 11.425619834710744,
+          "viol_reported": 0.13774104683195593,
+          "drop_rate": 11.287878787878789,
+          "p99_delivered_ms": 0.8562881139216871,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 639.0,
+          "mean_ms": 0.38671622965355285,
+          "viol_total": 4.931129476584022,
+          "viol_reported": 0.13085399449035812,
+          "drop_rate": 4.800275482093664,
+          "p99_delivered_ms": 0.8086949229944851,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 285.0,
+          "mean_ms": 0.36210528291485955,
+          "viol_total": 38.87741046831955,
+          "viol_reported": 0.03443526170798898,
+          "drop_rate": 38.84297520661157,
+          "p99_delivered_ms": 0.777646124870382,
+          "n_tasks": 14520
+        }
+      ],
+      "FedPPO-Mean": [
+        {
+          "seed": 0,
+          "n_k": 464.0,
+          "mean_ms": 0.36769360734923834,
+          "viol_total": 29.83471074380165,
+          "viol_reported": 0.06198347107438017,
+          "drop_rate": 29.772727272727273,
+          "p99_delivered_ms": 0.8209590682323942,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 589.0,
+          "mean_ms": 0.3931249577682111,
+          "viol_total": 60.39256198347107,
+          "viol_reported": 0.013774104683195591,
+          "drop_rate": 60.378787878787875,
+          "p99_delivered_ms": 0.7190812193849999,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 407.0,
+          "mean_ms": 0.38204208381431815,
+          "viol_total": 16.30853994490358,
+          "viol_reported": 0.10330578512396695,
+          "drop_rate": 16.205234159779614,
+          "p99_delivered_ms": 0.7990229541555636,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 409.0,
+          "mean_ms": 0.3565794801966229,
+          "viol_total": 22.83057851239669,
+          "viol_reported": 0.055096418732782364,
+          "drop_rate": 22.77548209366391,
+          "p99_delivered_ms": 0.7729611544328439,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 439.0,
+          "mean_ms": 0.3691935508861106,
+          "viol_total": 30.33746556473829,
+          "viol_reported": 0.013774104683195591,
+          "drop_rate": 30.323691460055098,
+          "p99_delivered_ms": 0.748976592175528,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 412.0,
+          "mean_ms": 0.3679569124833109,
+          "viol_total": 51.60468319559228,
+          "viol_reported": 0.02066115702479339,
+          "drop_rate": 51.58402203856749,
+          "p99_delivered_ms": 0.7614974996482579,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 427.0,
+          "mean_ms": 0.3679331066937668,
+          "viol_total": 20.785123966942148,
+          "viol_reported": 0.12396694214876033,
+          "drop_rate": 20.66115702479339,
+          "p99_delivered_ms": 0.8423751848775508,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 452.0,
+          "mean_ms": 0.38199268607612447,
+          "viol_total": 12.62396694214876,
+          "viol_reported": 0.09641873278236915,
+          "drop_rate": 12.52754820936639,
+          "p99_delivered_ms": 0.8435793717860205,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 528.0,
+          "mean_ms": 0.39788549601351647,
+          "viol_total": 16.659779614325068,
+          "viol_reported": 0.04132231404958678,
+          "drop_rate": 16.618457300275484,
+          "p99_delivered_ms": 0.7679249095071178,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 464.0,
+          "mean_ms": 0.3739779197654882,
+          "viol_total": 9.882920110192837,
+          "viol_reported": 0.08953168044077135,
+          "drop_rate": 9.793388429752065,
+          "p99_delivered_ms": 0.7677592418491834,
+          "n_tasks": 14520
+        }
+      ],
+      "Centralized-QR": [
+        {
+          "seed": 0,
+          "n_k": 852.0,
+          "mean_ms": 0.4294089521379688,
+          "viol_total": 12.424242424242424,
+          "viol_reported": 0.0068870523415977955,
+          "drop_rate": 12.417355371900825,
+          "p99_delivered_ms": 0.7823516258134411,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 361.0,
+          "mean_ms": 0.40493338034097415,
+          "viol_total": 45.44077134986226,
+          "viol_reported": 0.11019283746556473,
+          "drop_rate": 45.3305785123967,
+          "p99_delivered_ms": 0.8926503967127792,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 859.0,
+          "mean_ms": 0.41557932852561724,
+          "viol_total": 0.5303030303030304,
+          "viol_reported": 0.08264462809917356,
+          "drop_rate": 0.4476584022038568,
+          "p99_delivered_ms": 0.7948041269374893,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 423.0,
+          "mean_ms": 0.3668507100430365,
+          "viol_total": 14.696969696969697,
+          "viol_reported": 0.04132231404958678,
+          "drop_rate": 14.655647382920108,
+          "p99_delivered_ms": 0.744800828780381,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 798.0,
+          "mean_ms": 0.39614012574715884,
+          "viol_total": 9.53168044077135,
+          "viol_reported": 0.11707988980716254,
+          "drop_rate": 9.414600550964188,
+          "p99_delivered_ms": 0.7768905860381978,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 464.0,
+          "mean_ms": 0.37808154968839597,
+          "viol_total": 18.21625344352617,
+          "viol_reported": 0.03443526170798898,
+          "drop_rate": 18.181818181818183,
+          "p99_delivered_ms": 0.8135825446766619,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 178.0,
+          "mean_ms": 0.3540171838165161,
+          "viol_total": 61.70798898071625,
+          "viol_reported": 0.0,
+          "drop_rate": 61.70798898071625,
+          "p99_delivered_ms": 0.703262968889239,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 851.0,
+          "mean_ms": 0.44292684466100285,
+          "viol_total": 82.78236914600551,
+          "viol_reported": 0.02066115702479339,
+          "drop_rate": 82.76170798898072,
+          "p99_delivered_ms": 0.7697604110815028,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 899.0,
+          "mean_ms": 0.4081562978491164,
+          "viol_total": 6.4876033057851235,
+          "viol_reported": 0.12396694214876033,
+          "drop_rate": 6.363636363636363,
+          "p99_delivered_ms": 0.7910671965900602,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 164.0,
+          "mean_ms": 0.36894284647946185,
+          "viol_total": 66.94903581267218,
+          "viol_reported": 0.0,
+          "drop_rate": 66.94903581267218,
+          "p99_delivered_ms": 0.7178240028561145,
+          "n_tasks": 14520
+        }
+      ],
+      "FedAvg-DDQN": [
+        {
+          "seed": 0,
+          "n_k": 525.0,
+          "mean_ms": 0.37294880648387985,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.6302126184231754,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 525.0,
+          "mean_ms": 0.37678987548842324,
+          "viol_total": 4.669421487603306,
+          "viol_reported": 0.07575757575757576,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.7537558245490018,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 525.0,
+          "mean_ms": 0.3758865528024611,
+          "viol_total": 4.7245179063360885,
+          "viol_reported": 0.06198347107438017,
+          "drop_rate": 4.662534435261708,
+          "p99_delivered_ms": 0.7379368583788916,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 525.0,
+          "mean_ms": 0.37676691880134644,
+          "viol_total": 4.738292011019284,
+          "viol_reported": 0.07575757575757576,
+          "drop_rate": 4.662534435261708,
+          "p99_delivered_ms": 0.7537558245490018,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 525.0,
+          "mean_ms": 0.37584712960064814,
+          "viol_total": 5.34435261707989,
+          "viol_reported": 0.0,
+          "drop_rate": 5.34435261707989,
+          "p99_delivered_ms": 0.6819428739665382,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 525.0,
+          "mean_ms": 0.37294880648387985,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.6302126184231754,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 525.0,
+          "mean_ms": 0.3688488536700345,
+          "viol_total": 11.769972451790633,
+          "viol_reported": 0.0,
+          "drop_rate": 11.769972451790633,
+          "p99_delivered_ms": 0.6974475655770551,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 287.0,
+          "mean_ms": 0.36531655482879366,
+          "viol_total": 29.9931129476584,
+          "viol_reported": 0.0,
+          "drop_rate": 29.9931129476584,
+          "p99_delivered_ms": 0.708803183162552,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 525.0,
+          "mean_ms": 0.3741671621248918,
+          "viol_total": 6.928374655647383,
+          "viol_reported": 0.0,
+          "drop_rate": 6.928374655647383,
+          "p99_delivered_ms": 0.6525432472969012,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 525.0,
+          "mean_ms": 0.373017256474836,
+          "viol_total": 4.586776859504132,
+          "viol_reported": 0.0,
+          "drop_rate": 4.586776859504132,
+          "p99_delivered_ms": 0.6302126184231754,
+          "n_tasks": 14520
+        }
+      ]
+    }
+  },
+  {
+    "factor": "cpu_capacity",
+    "label": "F_max = 8 GHz",
+    "pmax_dbm": 23.0,
+    "fmax_ghz": 8.0,
+    "allocation": "own",
+    "sweep": [
+      {
+        "n_k": 150.0,
+        "mean_ms": 0.37424202854001043,
+        "viol_total": 82.47933884297521,
+        "viol_reported": 0.0,
+        "drop_rate": 82.47933884297521,
+        "p99_delivered_ms": 0.6767067019176103,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 200.0,
+        "mean_ms": 0.3538012831090812,
+        "viol_total": 63.64325068870523,
+        "viol_reported": 0.0,
+        "drop_rate": 63.64325068870523,
+        "p99_delivered_ms": 0.6335907752185468,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 250.0,
+        "mean_ms": 0.3395377189414086,
+        "viol_total": 49.18732782369146,
+        "viol_reported": 0.0,
+        "drop_rate": 49.18732782369146,
+        "p99_delivered_ms": 0.6615641620662734,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 300.0,
+        "mean_ms": 0.32745701376922065,
+        "viol_total": 36.23278236914601,
+        "viol_reported": 0.0,
+        "drop_rate": 36.23278236914601,
+        "p99_delivered_ms": 0.663427225045372,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 350.0,
+        "mean_ms": 0.31758235192197143,
+        "viol_total": 25.626721763085396,
+        "viol_reported": 0.0,
+        "drop_rate": 25.626721763085396,
+        "p99_delivered_ms": 0.6486995538509952,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 400.0,
+        "mean_ms": 0.3102153906907565,
+        "viol_total": 17.486225895316803,
+        "viol_reported": 0.0,
+        "drop_rate": 17.486225895316803,
+        "p99_delivered_ms": 0.6437883785230822,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 450.0,
+        "mean_ms": 0.30571670045506294,
+        "viol_total": 11.349862258953168,
+        "viol_reported": 0.0,
+        "drop_rate": 11.349862258953168,
+        "p99_delivered_ms": 0.6369899312867302,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 500.0,
+        "mean_ms": 0.30318138327704097,
+        "viol_total": 7.610192837465565,
+        "viol_reported": 0.0,
+        "drop_rate": 7.610192837465565,
+        "p99_delivered_ms": 0.6083281326671175,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 525.0,
+        "mean_ms": 0.3030675907720444,
+        "viol_total": 6.129476584022039,
+        "viol_reported": 0.0,
+        "drop_rate": 6.129476584022039,
+        "p99_delivered_ms": 0.6021629059720411,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 550.0,
+        "mean_ms": 0.30320554211290807,
+        "viol_total": 4.81404958677686,
+        "viol_reported": 0.0,
+        "drop_rate": 4.81404958677686,
+        "p99_delivered_ms": 0.5910227969376075,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 600.0,
+        "mean_ms": 0.3049509482614822,
+        "viol_total": 3.0234159779614322,
+        "viol_reported": 0.0,
+        "drop_rate": 3.0234159779614322,
+        "p99_delivered_ms": 0.5813186399545458,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 650.0,
+        "mean_ms": 0.30767765942335334,
+        "viol_total": 1.8801652892561984,
+        "viol_reported": 0.0,
+        "drop_rate": 1.8801652892561984,
+        "p99_delivered_ms": 0.5332794752901245,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 700.0,
+        "mean_ms": 0.31050794024476597,
+        "viol_total": 1.115702479338843,
+        "viol_reported": 0.0,
+        "drop_rate": 1.115702479338843,
+        "p99_delivered_ms": 0.5058257118303643,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 750.0,
+        "mean_ms": 0.31397612466381614,
+        "viol_total": 0.5991735537190083,
+        "viol_reported": 0.0,
+        "drop_rate": 0.5991735537190083,
+        "p99_delivered_ms": 0.4559143821336699,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 800.0,
+        "mean_ms": 0.3179550736912115,
+        "viol_total": 0.3856749311294766,
+        "viol_reported": 0.0,
+        "drop_rate": 0.3856749311294766,
+        "p99_delivered_ms": 0.4383131479785684,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 850.0,
+        "mean_ms": 0.3225691670433886,
+        "viol_total": 0.27548209366391185,
+        "viol_reported": 0.0,
+        "drop_rate": 0.27548209366391185,
+        "p99_delivered_ms": 0.4433131479785684,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 900.0,
+        "mean_ms": 0.3272650027446139,
+        "viol_total": 0.15151515151515152,
+        "viol_reported": 0.0,
+        "drop_rate": 0.15151515151515152,
+        "p99_delivered_ms": 0.4483131479785684,
+        "n_tasks": 14520
+      }
+    ],
+    "static_heuristic": {
+      "n_k": 525.0,
+      "mean_ms": 0.3030675907720444,
+      "viol_total": 6.129476584022039,
+      "viol_reported": 0.0,
+      "drop_rate": 6.129476584022039,
+      "p99_delivered_ms": 0.6021629059720411,
+      "n_tasks": 14520
+    },
+    "adaptive_heuristic": {
+      "n_k": 369.0,
+      "mean_ms": 0.2789306983369004,
+      "viol_total": 0.15151515151515152,
+      "viol_reported": 0.0,
+      "drop_rate": 0.15151515151515152,
+      "p99_delivered_ms": 0.43121162778748573,
+      "n_tasks": 14520
+    },
+    "trained": {
+      "FedPPO-QR": [
+        {
+          "seed": 0,
+          "n_k": 732.0,
+          "mean_ms": 0.3222379085484394,
+          "viol_total": 8.271349862258953,
+          "viol_reported": 0.0,
+          "drop_rate": 8.271349862258953,
+          "p99_delivered_ms": 0.6533709221299752,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 442.0,
+          "mean_ms": 0.3203888468268511,
+          "viol_total": 36.58402203856749,
+          "viol_reported": 0.0,
+          "drop_rate": 36.58402203856749,
+          "p99_delivered_ms": 0.666713431712104,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 418.0,
+          "mean_ms": 0.30647398625545236,
+          "viol_total": 17.727272727272727,
+          "viol_reported": 0.0,
+          "drop_rate": 17.727272727272727,
+          "p99_delivered_ms": 0.678908160753756,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 401.0,
+          "mean_ms": 0.29942084932122787,
+          "viol_total": 15.068870523415978,
+          "viol_reported": 0.0,
+          "drop_rate": 15.068870523415978,
+          "p99_delivered_ms": 0.6408872875683551,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 451.0,
+          "mean_ms": 0.3164193572190827,
+          "viol_total": 35.50275482093664,
+          "viol_reported": 0.0,
+          "drop_rate": 35.50275482093664,
+          "p99_delivered_ms": 0.6281737473373225,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 450.0,
+          "mean_ms": 0.3117738408684236,
+          "viol_total": 30.544077134986225,
+          "viol_reported": 0.0,
+          "drop_rate": 30.544077134986225,
+          "p99_delivered_ms": 0.634824674840964,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 444.0,
+          "mean_ms": 0.30153556471697673,
+          "viol_total": 16.060606060606062,
+          "viol_reported": 0.0,
+          "drop_rate": 16.060606060606062,
+          "p99_delivered_ms": 0.646225903332155,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 485.0,
+          "mean_ms": 0.3170294306847683,
+          "viol_total": 11.34297520661157,
+          "viol_reported": 0.0,
+          "drop_rate": 11.34297520661157,
+          "p99_delivered_ms": 0.7119892435640129,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 640.0,
+          "mean_ms": 0.3123494136138854,
+          "viol_total": 4.662534435261708,
+          "viol_reported": 0.0,
+          "drop_rate": 4.662534435261708,
+          "p99_delivered_ms": 0.6787576403186825,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 285.0,
+          "mean_ms": 0.318946482457635,
+          "viol_total": 38.89118457300276,
+          "viol_reported": 0.0,
+          "drop_rate": 38.89118457300276,
+          "p99_delivered_ms": 0.6615602387751826,
+          "n_tasks": 14520
+        }
+      ],
+      "FedPPO-Mean": [
+        {
+          "seed": 0,
+          "n_k": 464.0,
+          "mean_ms": 0.3181005752015562,
+          "viol_total": 29.88980716253444,
+          "viol_reported": 0.0,
+          "drop_rate": 29.88980716253444,
+          "p99_delivered_ms": 0.6903424187728587,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 589.0,
+          "mean_ms": 0.3684026393685909,
+          "viol_total": 61.08815426997245,
+          "viol_reported": 0.0,
+          "drop_rate": 61.08815426997245,
+          "p99_delivered_ms": 0.6177738167771822,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 407.0,
+          "mean_ms": 0.3147345733063136,
+          "viol_total": 16.191460055096417,
+          "viol_reported": 0.0,
+          "drop_rate": 16.191460055096417,
+          "p99_delivered_ms": 0.6842632743917504,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 409.0,
+          "mean_ms": 0.3014608587696083,
+          "viol_total": 22.706611570247933,
+          "viol_reported": 0.0,
+          "drop_rate": 22.706611570247933,
+          "p99_delivered_ms": 0.6583911079901026,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 439.0,
+          "mean_ms": 0.31975906966908674,
+          "viol_total": 31.776859504132233,
+          "viol_reported": 0.0,
+          "drop_rate": 31.776859504132233,
+          "p99_delivered_ms": 0.6291153955290556,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 412.0,
+          "mean_ms": 0.33726116573134357,
+          "viol_total": 52.231404958677686,
+          "viol_reported": 0.0,
+          "drop_rate": 52.231404958677686,
+          "p99_delivered_ms": 0.6537496398903984,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 427.0,
+          "mean_ms": 0.31014002138241176,
+          "viol_total": 20.736914600550964,
+          "viol_reported": 0.0,
+          "drop_rate": 20.736914600550964,
+          "p99_delivered_ms": 0.7050561358565763,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 452.0,
+          "mean_ms": 0.31295987497960115,
+          "viol_total": 12.40358126721763,
+          "viol_reported": 0.0,
+          "drop_rate": 12.40358126721763,
+          "p99_delivered_ms": 0.6997387061065093,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 528.0,
+          "mean_ms": 0.3274408772998481,
+          "viol_total": 14.566115702479337,
+          "viol_reported": 0.0,
+          "drop_rate": 14.566115702479337,
+          "p99_delivered_ms": 0.6657125300081969,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 463.0,
+          "mean_ms": 0.3040516513496809,
+          "viol_total": 9.745179063360881,
+          "viol_reported": 0.0,
+          "drop_rate": 9.745179063360881,
+          "p99_delivered_ms": 0.641170937757634,
+          "n_tasks": 14520
+        }
+      ],
+      "Centralized-QR": [
+        {
+          "seed": 0,
+          "n_k": 852.0,
+          "mean_ms": 0.3502579357870947,
+          "viol_total": 9.201101928374655,
+          "viol_reported": 0.0,
+          "drop_rate": 9.201101928374655,
+          "p99_delivered_ms": 0.6110488707116086,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 361.0,
+          "mean_ms": 0.36635839541120835,
+          "viol_total": 45.60606060606061,
+          "viol_reported": 0.0,
+          "drop_rate": 45.60606060606061,
+          "p99_delivered_ms": 0.7533112662472066,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 859.0,
+          "mean_ms": 0.3356603890773382,
+          "viol_total": 0.4407713498622589,
+          "viol_reported": 0.0,
+          "drop_rate": 0.4407713498622589,
+          "p99_delivered_ms": 0.653830372395432,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 423.0,
+          "mean_ms": 0.30210302874134337,
+          "viol_total": 15.550964187327823,
+          "viol_reported": 0.0,
+          "drop_rate": 15.550964187327823,
+          "p99_delivered_ms": 0.6160834225959796,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 798.0,
+          "mean_ms": 0.3270363301878096,
+          "viol_total": 9.483471074380164,
+          "viol_reported": 0.0,
+          "drop_rate": 9.483471074380164,
+          "p99_delivered_ms": 0.611842132655892,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 464.0,
+          "mean_ms": 0.31754519983900814,
+          "viol_total": 18.168044077134986,
+          "viol_reported": 0.0,
+          "drop_rate": 18.168044077134986,
+          "p99_delivered_ms": 0.6863607769657454,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 178.0,
+          "mean_ms": 0.32977801602516377,
+          "viol_total": 61.56336088154269,
+          "viol_reported": 0.0,
+          "drop_rate": 61.56336088154269,
+          "p99_delivered_ms": 0.5941677425156202,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 851.0,
+          "mean_ms": 0.4313217738310083,
+          "viol_total": 82.76859504132231,
+          "viol_reported": 0.0,
+          "drop_rate": 82.76859504132231,
+          "p99_delivered_ms": 0.6613196242535804,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 899.0,
+          "mean_ms": 0.33550052415230225,
+          "viol_total": 6.205234159779614,
+          "viol_reported": 0.0,
+          "drop_rate": 6.205234159779614,
+          "p99_delivered_ms": 0.620499149560535,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 164.0,
+          "mean_ms": 0.34543300706239033,
+          "viol_total": 66.96280991735537,
+          "viol_reported": 0.0,
+          "drop_rate": 66.96280991735537,
+          "p99_delivered_ms": 0.6031916549462208,
+          "n_tasks": 14520
+        }
+      ],
+      "FedAvg-DDQN": [
+        {
+          "seed": 0,
+          "n_k": 525.0,
+          "mean_ms": 0.29853994508329557,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.5237836805792553,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 525.0,
+          "mean_ms": 0.3014207468367031,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 525.0,
+          "mean_ms": 0.30143524586316583,
+          "viol_total": 4.676308539944904,
+          "viol_reported": 0.0,
+          "drop_rate": 4.676308539944904,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 525.0,
+          "mean_ms": 0.30150242685008427,
+          "viol_total": 4.655647382920111,
+          "viol_reported": 0.0,
+          "drop_rate": 4.655647382920111,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 525.0,
+          "mean_ms": 0.302658796647744,
+          "viol_total": 5.227272727272727,
+          "viol_reported": 0.0,
+          "drop_rate": 5.227272727272727,
+          "p99_delivered_ms": 0.5870821554749036,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 525.0,
+          "mean_ms": 0.29853994508329557,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.5237836805792553,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 525.0,
+          "mean_ms": 0.3014710319415434,
+          "viol_total": 12.169421487603307,
+          "viol_reported": 0.0,
+          "drop_rate": 12.169421487603307,
+          "p99_delivered_ms": 0.6012286103523273,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 287.0,
+          "mean_ms": 0.31173970780768656,
+          "viol_total": 29.318181818181817,
+          "viol_reported": 0.0,
+          "drop_rate": 29.318181818181817,
+          "p99_delivered_ms": 0.6182344638173815,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 525.0,
+          "mean_ms": 0.3032698196335012,
+          "viol_total": 9.820936639118457,
+          "viol_reported": 0.0,
+          "drop_rate": 9.820936639118457,
+          "p99_delivered_ms": 0.5722221680065538,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 525.0,
+          "mean_ms": 0.29867352006260733,
+          "viol_total": 4.586776859504132,
+          "viol_reported": 0.0,
+          "drop_rate": 4.586776859504132,
+          "p99_delivered_ms": 0.5237836805792553,
+          "n_tasks": 14520
+        }
+      ]
+    }
+  },
+  {
+    "factor": "cpu_capacity",
+    "label": "F_max = 10 GHz",
+    "pmax_dbm": 23.0,
+    "fmax_ghz": 10.0,
+    "allocation": "own",
+    "sweep": [
+      {
+        "n_k": 150.0,
+        "mean_ms": 0.36668942173008,
+        "viol_total": 82.47933884297521,
+        "viol_reported": 0.0,
+        "drop_rate": 82.47933884297521,
+        "p99_delivered_ms": 0.6193653615340883,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 200.0,
+        "mean_ms": 0.33777105403547436,
+        "viol_total": 63.64325068870523,
+        "viol_reported": 0.0,
+        "drop_rate": 63.64325068870523,
+        "p99_delivered_ms": 0.5858726201748374,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 250.0,
+        "mean_ms": 0.3169728060071214,
+        "viol_total": 49.18732782369146,
+        "viol_reported": 0.0,
+        "drop_rate": 49.18732782369146,
+        "p99_delivered_ms": 0.6092513296530186,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 300.0,
+        "mean_ms": 0.2988196055057346,
+        "viol_total": 36.23278236914601,
+        "viol_reported": 0.0,
+        "drop_rate": 36.23278236914601,
+        "p99_delivered_ms": 0.6117417800362975,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 350.0,
+        "mean_ms": 0.28380520660644765,
+        "viol_total": 25.626721763085396,
+        "viol_reported": 0.0,
+        "drop_rate": 25.626721763085396,
+        "p99_delivered_ms": 0.6009596430807961,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 400.0,
+        "mean_ms": 0.2723930425801534,
+        "viol_total": 17.486225895316803,
+        "viol_reported": 0.0,
+        "drop_rate": 17.486225895316803,
+        "p99_delivered_ms": 0.5976467653364671,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 450.0,
+        "mean_ms": 0.26471488928967024,
+        "viol_total": 11.349862258953168,
+        "viol_reported": 0.0,
+        "drop_rate": 11.349862258953168,
+        "p99_delivered_ms": 0.5737458225547601,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 500.0,
+        "mean_ms": 0.2601880129577209,
+        "viol_total": 7.610192837465565,
+        "viol_reported": 0.0,
+        "drop_rate": 7.610192837465565,
+        "p99_delivered_ms": 0.5487708288204936,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 525.0,
+        "mean_ms": 0.2592540037471121,
+        "viol_total": 6.129476584022039,
+        "viol_reported": 0.0,
+        "drop_rate": 6.129476584022039,
+        "p99_delivered_ms": 0.5438808612001477,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 550.0,
+        "mean_ms": 0.2586884006324752,
+        "viol_total": 4.81404958677686,
+        "viol_reported": 0.0,
+        "drop_rate": 4.81404958677686,
+        "p99_delivered_ms": 0.533818237550086,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 600.0,
+        "mean_ms": 0.25942494593700943,
+        "viol_total": 3.0234159779614322,
+        "viol_reported": 0.0,
+        "drop_rate": 3.0234159779614322,
+        "p99_delivered_ms": 0.5270549119636366,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 650.0,
+        "mean_ms": 0.2614923341502529,
+        "viol_total": 1.8801652892561984,
+        "viol_reported": 0.0,
+        "drop_rate": 1.8801652892561984,
+        "p99_delivered_ms": 0.46702694446340426,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 700.0,
+        "mean_ms": 0.26388362492308554,
+        "viol_total": 1.115702479338843,
+        "viol_reported": 0.0,
+        "drop_rate": 1.115702479338843,
+        "p99_delivered_ms": 0.44377082882049346,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 750.0,
+        "mean_ms": 0.26705039008917963,
+        "viol_total": 0.5991735537190083,
+        "viol_reported": 0.0,
+        "drop_rate": 0.5991735537190083,
+        "p99_delivered_ms": 0.40473150570693595,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 800.0,
+        "mean_ms": 0.2709029707986992,
+        "viol_total": 0.3856749311294766,
+        "viol_reported": 0.0,
+        "drop_rate": 0.3856749311294766,
+        "p99_delivered_ms": 0.36665051838285473,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 850.0,
+        "mean_ms": 0.27545133914435277,
+        "viol_total": 0.27548209366391185,
+        "viol_reported": 0.0,
+        "drop_rate": 0.27548209366391185,
+        "p99_delivered_ms": 0.37165051838285473,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 900.0,
+        "mean_ms": 0.28007198842158637,
+        "viol_total": 0.15151515151515152,
+        "viol_reported": 0.0,
+        "drop_rate": 0.15151515151515152,
+        "p99_delivered_ms": 0.37665051838285474,
+        "n_tasks": 14520
+      }
+    ],
+    "static_heuristic": {
+      "n_k": 525.0,
+      "mean_ms": 0.2592540037471121,
+      "viol_total": 6.129476584022039,
+      "viol_reported": 0.0,
+      "drop_rate": 6.129476584022039,
+      "p99_delivered_ms": 0.5438808612001477,
+      "n_tasks": 14520
+    },
+    "adaptive_heuristic": {
+      "n_k": 369.0,
+      "mean_ms": 0.23173768401387293,
+      "viol_total": 0.15151515151515152,
+      "viol_reported": 0.0,
+      "drop_rate": 0.15151515151515152,
+      "p99_delivered_ms": 0.3635919450293841,
+      "n_tasks": 14520
+    },
+    "trained": {
+      "FedPPO-QR": [
+        {
+          "seed": 0,
+          "n_k": 733.0,
+          "mean_ms": 0.2797587183873409,
+          "viol_total": 8.15426997245179,
+          "viol_reported": 0.0,
+          "drop_rate": 8.15426997245179,
+          "p99_delivered_ms": 0.5803379214673039,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 443.0,
+          "mean_ms": 0.29477987594538757,
+          "viol_total": 36.976584022038566,
+          "viol_reported": 0.0,
+          "drop_rate": 36.976584022038566,
+          "p99_delivered_ms": 0.6000023979795377,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 418.0,
+          "mean_ms": 0.26976441626563746,
+          "viol_total": 17.77548209366391,
+          "viol_reported": 0.0,
+          "drop_rate": 17.77548209366391,
+          "p99_delivered_ms": 0.6032002035724509,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 401.0,
+          "mean_ms": 0.2607565408858787,
+          "viol_total": 15.123966942148762,
+          "viol_reported": 0.0,
+          "drop_rate": 15.123966942148762,
+          "p99_delivered_ms": 0.5812203136470657,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 451.0,
+          "mean_ms": 0.29052719416467565,
+          "viol_total": 35.90220385674931,
+          "viol_reported": 0.0,
+          "drop_rate": 35.90220385674931,
+          "p99_delivered_ms": 0.5654092555621224,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 451.0,
+          "mean_ms": 0.2828819872720088,
+          "viol_total": 30.668044077134986,
+          "viol_reported": 0.0,
+          "drop_rate": 30.668044077134986,
+          "p99_delivered_ms": 0.5704195339605971,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 444.0,
+          "mean_ms": 0.26391543635408826,
+          "viol_total": 16.053719008264462,
+          "viol_reported": 0.0,
+          "drop_rate": 16.053719008264462,
+          "p99_delivered_ms": 0.5855706044396121,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 485.0,
+          "mean_ms": 0.2761967194925217,
+          "viol_total": 11.446280991735538,
+          "viol_reported": 0.0,
+          "drop_rate": 11.446280991735538,
+          "p99_delivered_ms": 0.6503141723741676,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 641.0,
+          "mean_ms": 0.2677598221346524,
+          "viol_total": 4.579889807162534,
+          "viol_reported": 0.0,
+          "drop_rate": 4.579889807162534,
+          "p99_delivered_ms": 0.6062752284266069,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 285.0,
+          "mean_ms": 0.29290620426628783,
+          "viol_total": 38.87052341597796,
+          "viol_reported": 0.0,
+          "drop_rate": 38.87052341597796,
+          "p99_delivered_ms": 0.5894395138153055,
+          "n_tasks": 14520
+        }
+      ],
+      "FedPPO-Mean": [
+        {
+          "seed": 0,
+          "n_k": 464.0,
+          "mean_ms": 0.28833415498620124,
+          "viol_total": 29.97245179063361,
+          "viol_reported": 0.0,
+          "drop_rate": 29.97245179063361,
+          "p99_delivered_ms": 0.6132897589894857,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 589.0,
+          "mean_ms": 0.35435908598565263,
+          "viol_total": 61.66666666666667,
+          "viol_reported": 0.0,
+          "drop_rate": 61.66666666666667,
+          "p99_delivered_ms": 0.5732605032143365,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 406.0,
+          "mean_ms": 0.27461977290597517,
+          "viol_total": 16.060606060606062,
+          "viol_reported": 0.0,
+          "drop_rate": 16.060606060606062,
+          "p99_delivered_ms": 0.6083805154526541,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 409.0,
+          "mean_ms": 0.26843902095697625,
+          "viol_total": 22.71349862258953,
+          "viol_reported": 0.0,
+          "drop_rate": 22.71349862258953,
+          "p99_delivered_ms": 0.5942755774516512,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 439.0,
+          "mean_ms": 0.2912355803801441,
+          "viol_total": 32.73415977961432,
+          "viol_reported": 0.0,
+          "drop_rate": 32.73415977961432,
+          "p99_delivered_ms": 0.5511833946488067,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 412.0,
+          "mean_ms": 0.3192878142769641,
+          "viol_total": 52.62396694214876,
+          "viol_reported": 0.0,
+          "drop_rate": 52.62396694214876,
+          "p99_delivered_ms": 0.5890103579400302,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 427.0,
+          "mean_ms": 0.2752209228694728,
+          "viol_total": 20.785123966942148,
+          "viol_reported": 0.0,
+          "drop_rate": 20.785123966942148,
+          "p99_delivered_ms": 0.6361960341945783,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 452.0,
+          "mean_ms": 0.2717217748548499,
+          "viol_total": 12.286501377410469,
+          "viol_reported": 0.0,
+          "drop_rate": 12.286501377410469,
+          "p99_delivered_ms": 0.6213649598928478,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 528.0,
+          "mean_ms": 0.2849249927869915,
+          "viol_total": 14.104683195592285,
+          "viol_reported": 0.0,
+          "drop_rate": 14.104683195592285,
+          "p99_delivered_ms": 0.611155381466845,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 463.0,
+          "mean_ms": 0.2620283637080307,
+          "viol_total": 9.703856749311294,
+          "viol_reported": 0.0,
+          "drop_rate": 9.703856749311294,
+          "p99_delivered_ms": 0.58520451446156,
+          "n_tasks": 14520
+        }
+      ],
+      "Centralized-QR": [
+        {
+          "seed": 0,
+          "n_k": 852.0,
+          "mean_ms": 0.30111995567895516,
+          "viol_total": 7.6033057851239665,
+          "viol_reported": 0.0,
+          "drop_rate": 7.6033057851239665,
+          "p99_delivered_ms": 0.5059267013532345,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 361.0,
+          "mean_ms": 0.34326616261976206,
+          "viol_total": 45.71625344352617,
+          "viol_reported": 0.0,
+          "drop_rate": 45.71625344352617,
+          "p99_delivered_ms": 0.6817270861160544,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 859.0,
+          "mean_ms": 0.28774517550976064,
+          "viol_total": 0.4407713498622589,
+          "viol_reported": 0.0,
+          "drop_rate": 0.4407713498622589,
+          "p99_delivered_ms": 0.5743661624607295,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 423.0,
+          "mean_ms": 0.2652666749544213,
+          "viol_total": 16.646005509641874,
+          "viol_reported": 0.0,
+          "drop_rate": 16.646005509641874,
+          "p99_delivered_ms": 0.5618194228709934,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 798.0,
+          "mean_ms": 0.28558838898065075,
+          "viol_total": 9.462809917355372,
+          "viol_reported": 0.0,
+          "drop_rate": 9.462809917355372,
+          "p99_delivered_ms": 0.5369220801385182,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 464.0,
+          "mean_ms": 0.28110304328391245,
+          "viol_total": 18.298898071625345,
+          "viol_reported": 0.0,
+          "drop_rate": 18.298898071625345,
+          "p99_delivered_ms": 0.6096636962076415,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 178.0,
+          "mean_ms": 0.3150379029242015,
+          "viol_total": 61.5495867768595,
+          "viol_reported": 0.0,
+          "drop_rate": 61.5495867768595,
+          "p99_delivered_ms": 0.5372455097365714,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 851.0,
+          "mean_ms": 0.42438409728175636,
+          "viol_total": 82.77548209366391,
+          "viol_reported": 0.0,
+          "drop_rate": 82.77548209366391,
+          "p99_delivered_ms": 0.6022391753027513,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 899.0,
+          "mean_ms": 0.2917258901916642,
+          "viol_total": 6.095041322314049,
+          "viol_reported": 0.0,
+          "drop_rate": 6.095041322314049,
+          "p99_delivered_ms": 0.531024687596499,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 164.0,
+          "mean_ms": 0.3313131499012344,
+          "viol_total": 66.96280991735537,
+          "viol_reported": 0.0,
+          "drop_rate": 66.96280991735537,
+          "p99_delivered_ms": 0.5529042609649597,
+          "n_tasks": 14520
+        }
+      ],
+      "FedAvg-DDQN": [
+        {
+          "seed": 0,
+          "n_k": 525.0,
+          "mean_ms": 0.25389462824294495,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.46053070281846564,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 525.0,
+          "mean_ms": 0.256199269645671,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.506720043120976,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 525.0,
+          "mean_ms": 0.2563399074522261,
+          "viol_total": 4.690082644628099,
+          "viol_reported": 0.0,
+          "drop_rate": 4.690082644628099,
+          "p99_delivered_ms": 0.506720043120976,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 525.0,
+          "mean_ms": 0.25636603328942414,
+          "viol_total": 4.655647382920111,
+          "viol_reported": 0.0,
+          "drop_rate": 4.655647382920111,
+          "p99_delivered_ms": 0.506720043120976,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 525.0,
+          "mean_ms": 0.25869753618913266,
+          "viol_total": 5.082644628099174,
+          "viol_reported": 0.0,
+          "drop_rate": 5.082644628099174,
+          "p99_delivered_ms": 0.528437546022737,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 525.0,
+          "mean_ms": 0.25389462824294495,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.46053070281846564,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 525.0,
+          "mean_ms": 0.2613420563955813,
+          "viol_total": 12.224517906336088,
+          "viol_reported": 0.0,
+          "drop_rate": 12.224517906336088,
+          "p99_delivered_ms": 0.5456734297609004,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 287.0,
+          "mean_ms": 0.27845254129960806,
+          "viol_total": 28.429752066115704,
+          "viol_reported": 0.0,
+          "drop_rate": 28.429752066115704,
+          "p99_delivered_ms": 0.5729937963370006,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 525.0,
+          "mean_ms": 0.2641232103786824,
+          "viol_total": 12.62396694214876,
+          "viol_reported": 0.0,
+          "drop_rate": 12.62396694214876,
+          "p99_delivered_ms": 0.5305863890354741,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 525.0,
+          "mean_ms": 0.2540658761837543,
+          "viol_total": 4.579889807162534,
+          "viol_reported": 0.0,
+          "drop_rate": 4.579889807162534,
+          "p99_delivered_ms": 0.46053070281846564,
+          "n_tasks": 14520
+        }
+      ]
+    }
+  },
+  {
+    "factor": "cpu_allocation",
+    "label": "own CPU allocation",
+    "pmax_dbm": 23.0,
+    "fmax_ghz": 8.0,
+    "allocation": "own",
+    "sweep": [
+      {
+        "n_k": 150.0,
+        "mean_ms": 0.37424202854001043,
+        "viol_total": 82.47933884297521,
+        "viol_reported": 0.0,
+        "drop_rate": 82.47933884297521,
+        "p99_delivered_ms": 0.6767067019176103,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 200.0,
+        "mean_ms": 0.3538012831090812,
+        "viol_total": 63.64325068870523,
+        "viol_reported": 0.0,
+        "drop_rate": 63.64325068870523,
+        "p99_delivered_ms": 0.6335907752185468,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 250.0,
+        "mean_ms": 0.3395377189414086,
+        "viol_total": 49.18732782369146,
+        "viol_reported": 0.0,
+        "drop_rate": 49.18732782369146,
+        "p99_delivered_ms": 0.6615641620662734,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 300.0,
+        "mean_ms": 0.32745701376922065,
+        "viol_total": 36.23278236914601,
+        "viol_reported": 0.0,
+        "drop_rate": 36.23278236914601,
+        "p99_delivered_ms": 0.663427225045372,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 350.0,
+        "mean_ms": 0.31758235192197143,
+        "viol_total": 25.626721763085396,
+        "viol_reported": 0.0,
+        "drop_rate": 25.626721763085396,
+        "p99_delivered_ms": 0.6486995538509952,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 400.0,
+        "mean_ms": 0.3102153906907565,
+        "viol_total": 17.486225895316803,
+        "viol_reported": 0.0,
+        "drop_rate": 17.486225895316803,
+        "p99_delivered_ms": 0.6437883785230822,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 450.0,
+        "mean_ms": 0.30571670045506294,
+        "viol_total": 11.349862258953168,
+        "viol_reported": 0.0,
+        "drop_rate": 11.349862258953168,
+        "p99_delivered_ms": 0.6369899312867302,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 500.0,
+        "mean_ms": 0.30318138327704097,
+        "viol_total": 7.610192837465565,
+        "viol_reported": 0.0,
+        "drop_rate": 7.610192837465565,
+        "p99_delivered_ms": 0.6083281326671175,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 525.0,
+        "mean_ms": 0.3030675907720444,
+        "viol_total": 6.129476584022039,
+        "viol_reported": 0.0,
+        "drop_rate": 6.129476584022039,
+        "p99_delivered_ms": 0.6021629059720411,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 550.0,
+        "mean_ms": 0.30320554211290807,
+        "viol_total": 4.81404958677686,
+        "viol_reported": 0.0,
+        "drop_rate": 4.81404958677686,
+        "p99_delivered_ms": 0.5910227969376075,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 600.0,
+        "mean_ms": 0.3049509482614822,
+        "viol_total": 3.0234159779614322,
+        "viol_reported": 0.0,
+        "drop_rate": 3.0234159779614322,
+        "p99_delivered_ms": 0.5813186399545458,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 650.0,
+        "mean_ms": 0.30767765942335334,
+        "viol_total": 1.8801652892561984,
+        "viol_reported": 0.0,
+        "drop_rate": 1.8801652892561984,
+        "p99_delivered_ms": 0.5332794752901245,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 700.0,
+        "mean_ms": 0.31050794024476597,
+        "viol_total": 1.115702479338843,
+        "viol_reported": 0.0,
+        "drop_rate": 1.115702479338843,
+        "p99_delivered_ms": 0.5058257118303643,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 750.0,
+        "mean_ms": 0.31397612466381614,
+        "viol_total": 0.5991735537190083,
+        "viol_reported": 0.0,
+        "drop_rate": 0.5991735537190083,
+        "p99_delivered_ms": 0.4559143821336699,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 800.0,
+        "mean_ms": 0.3179550736912115,
+        "viol_total": 0.3856749311294766,
+        "viol_reported": 0.0,
+        "drop_rate": 0.3856749311294766,
+        "p99_delivered_ms": 0.4383131479785684,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 850.0,
+        "mean_ms": 0.3225691670433886,
+        "viol_total": 0.27548209366391185,
+        "viol_reported": 0.0,
+        "drop_rate": 0.27548209366391185,
+        "p99_delivered_ms": 0.4433131479785684,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 900.0,
+        "mean_ms": 0.3272650027446139,
+        "viol_total": 0.15151515151515152,
+        "viol_reported": 0.0,
+        "drop_rate": 0.15151515151515152,
+        "p99_delivered_ms": 0.4483131479785684,
+        "n_tasks": 14520
+      }
+    ],
+    "static_heuristic": {
+      "n_k": 525.0,
+      "mean_ms": 0.3030675907720444,
+      "viol_total": 6.129476584022039,
+      "viol_reported": 0.0,
+      "drop_rate": 6.129476584022039,
+      "p99_delivered_ms": 0.6021629059720411,
+      "n_tasks": 14520
+    },
+    "adaptive_heuristic": {
+      "n_k": 369.0,
+      "mean_ms": 0.2789306983369004,
+      "viol_total": 0.15151515151515152,
+      "viol_reported": 0.0,
+      "drop_rate": 0.15151515151515152,
+      "p99_delivered_ms": 0.43121162778748573,
+      "n_tasks": 14520
+    },
+    "trained": {
+      "FedPPO-QR": [
+        {
+          "seed": 0,
+          "n_k": 732.0,
+          "mean_ms": 0.3222379085484394,
+          "viol_total": 8.271349862258953,
+          "viol_reported": 0.0,
+          "drop_rate": 8.271349862258953,
+          "p99_delivered_ms": 0.6533709221299752,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 442.0,
+          "mean_ms": 0.3203888468268511,
+          "viol_total": 36.58402203856749,
+          "viol_reported": 0.0,
+          "drop_rate": 36.58402203856749,
+          "p99_delivered_ms": 0.666713431712104,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 418.0,
+          "mean_ms": 0.30647398625545236,
+          "viol_total": 17.727272727272727,
+          "viol_reported": 0.0,
+          "drop_rate": 17.727272727272727,
+          "p99_delivered_ms": 0.678908160753756,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 401.0,
+          "mean_ms": 0.29942084932122787,
+          "viol_total": 15.068870523415978,
+          "viol_reported": 0.0,
+          "drop_rate": 15.068870523415978,
+          "p99_delivered_ms": 0.6408872875683551,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 451.0,
+          "mean_ms": 0.3164193572190827,
+          "viol_total": 35.50275482093664,
+          "viol_reported": 0.0,
+          "drop_rate": 35.50275482093664,
+          "p99_delivered_ms": 0.6281737473373225,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 450.0,
+          "mean_ms": 0.3117738408684236,
+          "viol_total": 30.544077134986225,
+          "viol_reported": 0.0,
+          "drop_rate": 30.544077134986225,
+          "p99_delivered_ms": 0.634824674840964,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 444.0,
+          "mean_ms": 0.30153556471697673,
+          "viol_total": 16.060606060606062,
+          "viol_reported": 0.0,
+          "drop_rate": 16.060606060606062,
+          "p99_delivered_ms": 0.646225903332155,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 485.0,
+          "mean_ms": 0.3170294306847683,
+          "viol_total": 11.34297520661157,
+          "viol_reported": 0.0,
+          "drop_rate": 11.34297520661157,
+          "p99_delivered_ms": 0.7119892435640129,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 640.0,
+          "mean_ms": 0.3123494136138854,
+          "viol_total": 4.662534435261708,
+          "viol_reported": 0.0,
+          "drop_rate": 4.662534435261708,
+          "p99_delivered_ms": 0.6787576403186825,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 285.0,
+          "mean_ms": 0.318946482457635,
+          "viol_total": 38.89118457300276,
+          "viol_reported": 0.0,
+          "drop_rate": 38.89118457300276,
+          "p99_delivered_ms": 0.6615602387751826,
+          "n_tasks": 14520
+        }
+      ],
+      "FedPPO-Mean": [
+        {
+          "seed": 0,
+          "n_k": 464.0,
+          "mean_ms": 0.3181005752015562,
+          "viol_total": 29.88980716253444,
+          "viol_reported": 0.0,
+          "drop_rate": 29.88980716253444,
+          "p99_delivered_ms": 0.6903424187728587,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 589.0,
+          "mean_ms": 0.3684026393685909,
+          "viol_total": 61.08815426997245,
+          "viol_reported": 0.0,
+          "drop_rate": 61.08815426997245,
+          "p99_delivered_ms": 0.6177738167771822,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 407.0,
+          "mean_ms": 0.3147345733063136,
+          "viol_total": 16.191460055096417,
+          "viol_reported": 0.0,
+          "drop_rate": 16.191460055096417,
+          "p99_delivered_ms": 0.6842632743917504,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 409.0,
+          "mean_ms": 0.3014608587696083,
+          "viol_total": 22.706611570247933,
+          "viol_reported": 0.0,
+          "drop_rate": 22.706611570247933,
+          "p99_delivered_ms": 0.6583911079901026,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 439.0,
+          "mean_ms": 0.31975906966908674,
+          "viol_total": 31.776859504132233,
+          "viol_reported": 0.0,
+          "drop_rate": 31.776859504132233,
+          "p99_delivered_ms": 0.6291153955290556,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 412.0,
+          "mean_ms": 0.33726116573134357,
+          "viol_total": 52.231404958677686,
+          "viol_reported": 0.0,
+          "drop_rate": 52.231404958677686,
+          "p99_delivered_ms": 0.6537496398903984,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 427.0,
+          "mean_ms": 0.31014002138241176,
+          "viol_total": 20.736914600550964,
+          "viol_reported": 0.0,
+          "drop_rate": 20.736914600550964,
+          "p99_delivered_ms": 0.7050561358565763,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 452.0,
+          "mean_ms": 0.31295987497960115,
+          "viol_total": 12.40358126721763,
+          "viol_reported": 0.0,
+          "drop_rate": 12.40358126721763,
+          "p99_delivered_ms": 0.6997387061065093,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 528.0,
+          "mean_ms": 0.3274408772998481,
+          "viol_total": 14.566115702479337,
+          "viol_reported": 0.0,
+          "drop_rate": 14.566115702479337,
+          "p99_delivered_ms": 0.6657125300081969,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 463.0,
+          "mean_ms": 0.3040516513496809,
+          "viol_total": 9.745179063360881,
+          "viol_reported": 0.0,
+          "drop_rate": 9.745179063360881,
+          "p99_delivered_ms": 0.641170937757634,
+          "n_tasks": 14520
+        }
+      ],
+      "Centralized-QR": [
+        {
+          "seed": 0,
+          "n_k": 852.0,
+          "mean_ms": 0.3502579357870947,
+          "viol_total": 9.201101928374655,
+          "viol_reported": 0.0,
+          "drop_rate": 9.201101928374655,
+          "p99_delivered_ms": 0.6110488707116086,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 361.0,
+          "mean_ms": 0.36635839541120835,
+          "viol_total": 45.60606060606061,
+          "viol_reported": 0.0,
+          "drop_rate": 45.60606060606061,
+          "p99_delivered_ms": 0.7533112662472066,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 859.0,
+          "mean_ms": 0.3356603890773382,
+          "viol_total": 0.4407713498622589,
+          "viol_reported": 0.0,
+          "drop_rate": 0.4407713498622589,
+          "p99_delivered_ms": 0.653830372395432,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 423.0,
+          "mean_ms": 0.30210302874134337,
+          "viol_total": 15.550964187327823,
+          "viol_reported": 0.0,
+          "drop_rate": 15.550964187327823,
+          "p99_delivered_ms": 0.6160834225959796,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 798.0,
+          "mean_ms": 0.3270363301878096,
+          "viol_total": 9.483471074380164,
+          "viol_reported": 0.0,
+          "drop_rate": 9.483471074380164,
+          "p99_delivered_ms": 0.611842132655892,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 464.0,
+          "mean_ms": 0.31754519983900814,
+          "viol_total": 18.168044077134986,
+          "viol_reported": 0.0,
+          "drop_rate": 18.168044077134986,
+          "p99_delivered_ms": 0.6863607769657454,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 178.0,
+          "mean_ms": 0.32977801602516377,
+          "viol_total": 61.56336088154269,
+          "viol_reported": 0.0,
+          "drop_rate": 61.56336088154269,
+          "p99_delivered_ms": 0.5941677425156202,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 851.0,
+          "mean_ms": 0.4313217738310083,
+          "viol_total": 82.76859504132231,
+          "viol_reported": 0.0,
+          "drop_rate": 82.76859504132231,
+          "p99_delivered_ms": 0.6613196242535804,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 899.0,
+          "mean_ms": 0.33550052415230225,
+          "viol_total": 6.205234159779614,
+          "viol_reported": 0.0,
+          "drop_rate": 6.205234159779614,
+          "p99_delivered_ms": 0.620499149560535,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 164.0,
+          "mean_ms": 0.34543300706239033,
+          "viol_total": 66.96280991735537,
+          "viol_reported": 0.0,
+          "drop_rate": 66.96280991735537,
+          "p99_delivered_ms": 0.6031916549462208,
+          "n_tasks": 14520
+        }
+      ],
+      "FedAvg-DDQN": [
+        {
+          "seed": 0,
+          "n_k": 525.0,
+          "mean_ms": 0.29853994508329557,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.5237836805792553,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 525.0,
+          "mean_ms": 0.3014207468367031,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 525.0,
+          "mean_ms": 0.30143524586316583,
+          "viol_total": 4.676308539944904,
+          "viol_reported": 0.0,
+          "drop_rate": 4.676308539944904,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 525.0,
+          "mean_ms": 0.30150242685008427,
+          "viol_total": 4.655647382920111,
+          "viol_reported": 0.0,
+          "drop_rate": 4.655647382920111,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 525.0,
+          "mean_ms": 0.302658796647744,
+          "viol_total": 5.227272727272727,
+          "viol_reported": 0.0,
+          "drop_rate": 5.227272727272727,
+          "p99_delivered_ms": 0.5870821554749036,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 525.0,
+          "mean_ms": 0.29853994508329557,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.5237836805792553,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 525.0,
+          "mean_ms": 0.3014710319415434,
+          "viol_total": 12.169421487603307,
+          "viol_reported": 0.0,
+          "drop_rate": 12.169421487603307,
+          "p99_delivered_ms": 0.6012286103523273,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 287.0,
+          "mean_ms": 0.31173970780768656,
+          "viol_total": 29.318181818181817,
+          "viol_reported": 0.0,
+          "drop_rate": 29.318181818181817,
+          "p99_delivered_ms": 0.6182344638173815,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 525.0,
+          "mean_ms": 0.3032698196335012,
+          "viol_total": 9.820936639118457,
+          "viol_reported": 0.0,
+          "drop_rate": 9.820936639118457,
+          "p99_delivered_ms": 0.5722221680065538,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 525.0,
+          "mean_ms": 0.29867352006260733,
+          "viol_total": 4.586776859504132,
+          "viol_reported": 0.0,
+          "drop_rate": 4.586776859504132,
+          "p99_delivered_ms": 0.5237836805792553,
+          "n_tasks": 14520
+        }
+      ]
+    }
+  },
+  {
+    "factor": "cpu_allocation",
+    "label": "equal CPU allocation",
+    "pmax_dbm": 23.0,
+    "fmax_ghz": 8.0,
+    "allocation": "equal",
+    "sweep": [
+      {
+        "n_k": 150.0,
+        "mean_ms": 0.3706246234491773,
+        "viol_total": 82.47933884297521,
+        "viol_reported": 0.0,
+        "drop_rate": 82.47933884297521,
+        "p99_delivered_ms": 0.7023369075764921,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 200.0,
+        "mean_ms": 0.3509881977623047,
+        "viol_total": 63.64325068870523,
+        "viol_reported": 0.0,
+        "drop_rate": 63.64325068870523,
+        "p99_delivered_ms": 0.6637337434706404,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 250.0,
+        "mean_ms": 0.33610542864211845,
+        "viol_total": 49.18732782369146,
+        "viol_reported": 0.0,
+        "drop_rate": 49.18732782369146,
+        "p99_delivered_ms": 0.6759418684117514,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 300.0,
+        "mean_ms": 0.32442446551079474,
+        "viol_total": 36.23278236914601,
+        "viol_reported": 0.0,
+        "drop_rate": 36.23278236914601,
+        "p99_delivered_ms": 0.6869254252364686,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 350.0,
+        "mean_ms": 0.31546273086339305,
+        "viol_total": 25.626721763085396,
+        "viol_reported": 0.0,
+        "drop_rate": 25.626721763085396,
+        "p99_delivered_ms": 0.6859418684117513,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 400.0,
+        "mean_ms": 0.3096256828658714,
+        "viol_total": 17.486225895316803,
+        "viol_reported": 0.0,
+        "drop_rate": 17.486225895316803,
+        "p99_delivered_ms": 0.685398008765328,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 450.0,
+        "mean_ms": 0.30649935036155596,
+        "viol_total": 11.349862258953168,
+        "viol_reported": 0.0,
+        "drop_rate": 11.349862258953168,
+        "p99_delivered_ms": 0.6884565706359763,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 500.0,
+        "mean_ms": 0.30505165378939714,
+        "viol_total": 7.610192837465565,
+        "viol_reported": 0.0,
+        "drop_rate": 7.610192837465565,
+        "p99_delivered_ms": 0.665608755838439,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 525.0,
+        "mean_ms": 0.30546565146230903,
+        "viol_total": 6.129476584022039,
+        "viol_reported": 0.0,
+        "drop_rate": 6.129476584022039,
+        "p99_delivered_ms": 0.6555736266260072,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 550.0,
+        "mean_ms": 0.30590446996614773,
+        "viol_total": 4.81404958677686,
+        "viol_reported": 0.0,
+        "drop_rate": 4.81404958677686,
+        "p99_delivered_ms": 0.6375491629853498,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 600.0,
+        "mean_ms": 0.30822478267388015,
+        "viol_total": 3.0234159779614322,
+        "viol_reported": 0.0,
+        "drop_rate": 3.0234159779614322,
+        "p99_delivered_ms": 0.621947586076233,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 650.0,
+        "mean_ms": 0.31147600450350466,
+        "viol_total": 1.8801652892561984,
+        "viol_reported": 0.0,
+        "drop_rate": 1.8801652892561984,
+        "p99_delivered_ms": 0.599898411866952,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 700.0,
+        "mean_ms": 0.3146740933290788,
+        "viol_total": 1.115702479338843,
+        "viol_reported": 0.0,
+        "drop_rate": 1.115702479338843,
+        "p99_delivered_ms": 0.5959418684117512,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 750.0,
+        "mean_ms": 0.3183772114581255,
+        "viol_total": 0.5991735537190083,
+        "viol_reported": 0.0,
+        "drop_rate": 0.5991735537190083,
+        "p99_delivered_ms": 0.6009418684117512,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 800.0,
+        "mean_ms": 0.32246666282696246,
+        "viol_total": 0.3856749311294766,
+        "viol_reported": 0.0,
+        "drop_rate": 0.3856749311294766,
+        "p99_delivered_ms": 0.6059418684117512,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 850.0,
+        "mean_ms": 0.3271450825522966,
+        "viol_total": 0.27548209366391185,
+        "viol_reported": 0.0,
+        "drop_rate": 0.27548209366391185,
+        "p99_delivered_ms": 0.6109418684117514,
+        "n_tasks": 14520
+      },
+      {
+        "n_k": 900.0,
+        "mean_ms": 0.33190654087215893,
+        "viol_total": 0.15151515151515152,
+        "viol_reported": 0.0,
+        "drop_rate": 0.15151515151515152,
+        "p99_delivered_ms": 0.6159418684117514,
+        "n_tasks": 14520
+      }
+    ],
+    "static_heuristic": {
+      "n_k": 525.0,
+      "mean_ms": 0.30546565146230903,
+      "viol_total": 6.129476584022039,
+      "viol_reported": 0.0,
+      "drop_rate": 6.129476584022039,
+      "p99_delivered_ms": 0.6555736266260072,
+      "n_tasks": 14520
+    },
+    "adaptive_heuristic": {
+      "n_k": 369.0,
+      "mean_ms": 0.2835722364644454,
+      "viol_total": 0.15151515151515152,
+      "viol_reported": 0.0,
+      "drop_rate": 0.15151515151515152,
+      "p99_delivered_ms": 0.5757508684117515,
+      "n_tasks": 14520
+    },
+    "trained": {
+      "FedPPO-QR": [
+        {
+          "seed": 0,
+          "n_k": 732.0,
+          "mean_ms": 0.3221059828239198,
+          "viol_total": 8.21625344352617,
+          "viol_reported": 0.0,
+          "drop_rate": 8.21625344352617,
+          "p99_delivered_ms": 0.6495565471636744,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 442.0,
+          "mean_ms": 0.3204171147264987,
+          "viol_total": 36.5633608815427,
+          "viol_reported": 0.0,
+          "drop_rate": 36.5633608815427,
+          "p99_delivered_ms": 0.6693713661094917,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 418.0,
+          "mean_ms": 0.3060371937348357,
+          "viol_total": 17.74793388429752,
+          "viol_reported": 0.0,
+          "drop_rate": 17.74793388429752,
+          "p99_delivered_ms": 0.6854565706359763,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 401.0,
+          "mean_ms": 0.2990780855829318,
+          "viol_total": 15.061983471074381,
+          "viol_reported": 0.0,
+          "drop_rate": 15.061983471074381,
+          "p99_delivered_ms": 0.6431434221370796,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 451.0,
+          "mean_ms": 0.3164976971836851,
+          "viol_total": 35.34435261707989,
+          "viol_reported": 0.0,
+          "drop_rate": 35.34435261707989,
+          "p99_delivered_ms": 0.6309387581027517,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 450.0,
+          "mean_ms": 0.31176830082153967,
+          "viol_total": 30.537190082644628,
+          "viol_reported": 0.0,
+          "drop_rate": 30.537190082644628,
+          "p99_delivered_ms": 0.6361379073062557,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 444.0,
+          "mean_ms": 0.3009682143030488,
+          "viol_total": 16.053719008264462,
+          "viol_reported": 0.0,
+          "drop_rate": 16.053719008264462,
+          "p99_delivered_ms": 0.6418426123697069,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 485.0,
+          "mean_ms": 0.3170728161993267,
+          "viol_total": 11.34297520661157,
+          "viol_reported": 0.0,
+          "drop_rate": 11.34297520661157,
+          "p99_delivered_ms": 0.712967899649947,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 640.0,
+          "mean_ms": 0.31266772510916,
+          "viol_total": 4.676308539944904,
+          "viol_reported": 0.0,
+          "drop_rate": 4.676308539944904,
+          "p99_delivered_ms": 0.6799721605418064,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 285.0,
+          "mean_ms": 0.31889312873914283,
+          "viol_total": 38.89118457300276,
+          "viol_reported": 0.0,
+          "drop_rate": 38.89118457300276,
+          "p99_delivered_ms": 0.6603785708693625,
+          "n_tasks": 14520
+        }
+      ],
+      "FedPPO-Mean": [
+        {
+          "seed": 0,
+          "n_k": 464.0,
+          "mean_ms": 0.3182053769772413,
+          "viol_total": 29.86225895316804,
+          "viol_reported": 0.0,
+          "drop_rate": 29.86225895316804,
+          "p99_delivered_ms": 0.6909375394466964,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 589.0,
+          "mean_ms": 0.36909130549315666,
+          "viol_total": 61.019283746556475,
+          "viol_reported": 0.0,
+          "drop_rate": 61.019283746556475,
+          "p99_delivered_ms": 0.6189825083395356,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 406.0,
+          "mean_ms": 0.31430930876086816,
+          "viol_total": 16.18457300275482,
+          "viol_reported": 0.0,
+          "drop_rate": 16.18457300275482,
+          "p99_delivered_ms": 0.6845816709672995,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 409.0,
+          "mean_ms": 0.3014742498184225,
+          "viol_total": 22.706611570247933,
+          "viol_reported": 0.0,
+          "drop_rate": 22.706611570247933,
+          "p99_delivered_ms": 0.6577214287418186,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 439.0,
+          "mean_ms": 0.31972776307199685,
+          "viol_total": 31.714876033057855,
+          "viol_reported": 0.0,
+          "drop_rate": 31.714876033057855,
+          "p99_delivered_ms": 0.6279894792630624,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 412.0,
+          "mean_ms": 0.33713106898739753,
+          "viol_total": 52.231404958677686,
+          "viol_reported": 0.0,
+          "drop_rate": 52.231404958677686,
+          "p99_delivered_ms": 0.6543444492469171,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 427.0,
+          "mean_ms": 0.3101065041390176,
+          "viol_total": 20.736914600550964,
+          "viol_reported": 0.0,
+          "drop_rate": 20.736914600550964,
+          "p99_delivered_ms": 0.7035424968068725,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 452.0,
+          "mean_ms": 0.3128920702439536,
+          "viol_total": 12.40358126721763,
+          "viol_reported": 0.0,
+          "drop_rate": 12.40358126721763,
+          "p99_delivered_ms": 0.7007282968167969,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 528.0,
+          "mean_ms": 0.327841663493562,
+          "viol_total": 14.738292011019283,
+          "viol_reported": 0.0,
+          "drop_rate": 14.738292011019283,
+          "p99_delivered_ms": 0.6670802698034621,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 463.0,
+          "mean_ms": 0.30399671290893027,
+          "viol_total": 9.738292011019285,
+          "viol_reported": 0.0,
+          "drop_rate": 9.738292011019285,
+          "p99_delivered_ms": 0.6425714414861476,
+          "n_tasks": 14520
+        }
+      ],
+      "Centralized-QR": [
+        {
+          "seed": 0,
+          "n_k": 852.0,
+          "mean_ms": 0.3502935249931033,
+          "viol_total": 9.214876033057852,
+          "viol_reported": 0.0,
+          "drop_rate": 9.214876033057852,
+          "p99_delivered_ms": 0.6111418684117513,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 361.0,
+          "mean_ms": 0.3663340903937288,
+          "viol_total": 45.57162534435262,
+          "viol_reported": 0.0,
+          "drop_rate": 45.57162534435262,
+          "p99_delivered_ms": 0.7534877003111284,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 859.0,
+          "mean_ms": 0.33556741958449454,
+          "viol_total": 0.4407713498622589,
+          "viol_reported": 0.0,
+          "drop_rate": 0.4407713498622589,
+          "p99_delivered_ms": 0.6544240546426592,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 423.0,
+          "mean_ms": 0.3020190865889581,
+          "viol_total": 15.550964187327823,
+          "viol_reported": 0.0,
+          "drop_rate": 15.550964187327823,
+          "p99_delivered_ms": 0.6183521522004075,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 798.0,
+          "mean_ms": 0.3270420068537004,
+          "viol_total": 9.469696969696969,
+          "viol_reported": 0.0,
+          "drop_rate": 9.469696969696969,
+          "p99_delivered_ms": 0.6104282968167969,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 464.0,
+          "mean_ms": 0.31752275999491103,
+          "viol_total": 18.140495867768593,
+          "viol_reported": 0.0,
+          "drop_rate": 18.140495867768593,
+          "p99_delivered_ms": 0.6863863311093065,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 178.0,
+          "mean_ms": 0.3291648353278361,
+          "viol_total": 61.56336088154269,
+          "viol_reported": 0.0,
+          "drop_rate": 61.56336088154269,
+          "p99_delivered_ms": 0.6002288223401504,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 851.0,
+          "mean_ms": 0.43132599662591325,
+          "viol_total": 82.76859504132231,
+          "viol_reported": 0.0,
+          "drop_rate": 82.76859504132231,
+          "p99_delivered_ms": 0.6613423472489844,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 899.0,
+          "mean_ms": 0.33550141581580856,
+          "viol_total": 6.205234159779614,
+          "viol_reported": 0.0,
+          "drop_rate": 6.205234159779614,
+          "p99_delivered_ms": 0.6205282968167969,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 164.0,
+          "mean_ms": 0.34542696689825025,
+          "viol_total": 66.96280991735537,
+          "viol_reported": 0.0,
+          "drop_rate": 66.96280991735537,
+          "p99_delivered_ms": 0.6032139083647537,
+          "n_tasks": 14520
+        }
+      ],
+      "FedAvg-DDQN": [
+        {
+          "seed": 0,
+          "n_k": 525.0,
+          "mean_ms": 0.3014207468367031,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 1,
+          "n_k": 525.0,
+          "mean_ms": 0.3014207468367031,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 2,
+          "n_k": 525.0,
+          "mean_ms": 0.3016348094407114,
+          "viol_total": 4.676308539944904,
+          "viol_reported": 0.0,
+          "drop_rate": 4.676308539944904,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 3,
+          "n_k": 525.0,
+          "mean_ms": 0.3016203615279217,
+          "viol_total": 4.655647382920111,
+          "viol_reported": 0.0,
+          "drop_rate": 4.655647382920111,
+          "p99_delivered_ms": 0.587981662188084,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 4,
+          "n_k": 525.0,
+          "mean_ms": 0.30501983156442136,
+          "viol_total": 5.227272727272727,
+          "viol_reported": 0.0,
+          "drop_rate": 5.227272727272727,
+          "p99_delivered_ms": 0.6391572525367537,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 5,
+          "n_k": 525.0,
+          "mean_ms": 0.3014207468367031,
+          "viol_total": 4.59366391184573,
+          "viol_reported": 0.0,
+          "drop_rate": 4.59366391184573,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 6,
+          "n_k": 525.0,
+          "mean_ms": 0.3020587274391024,
+          "viol_total": 12.169421487603307,
+          "viol_reported": 0.0,
+          "drop_rate": 12.169421487603307,
+          "p99_delivered_ms": 0.6245764414861477,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 7,
+          "n_k": 287.0,
+          "mean_ms": 0.309832546636684,
+          "viol_total": 29.325068870523417,
+          "viol_reported": 0.0,
+          "drop_rate": 29.325068870523417,
+          "p99_delivered_ms": 0.6245764414861477,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 8,
+          "n_k": 525.0,
+          "mean_ms": 0.30442994891146336,
+          "viol_total": 9.490358126721764,
+          "viol_reported": 0.0,
+          "drop_rate": 9.490358126721764,
+          "p99_delivered_ms": 0.5957925156842242,
+          "n_tasks": 14520
+        },
+        {
+          "seed": 9,
+          "n_k": 525.0,
+          "mean_ms": 0.30152234524690963,
+          "viol_total": 4.586776859504132,
+          "viol_reported": 0.0,
+          "drop_rate": 4.586776859504132,
+          "p99_delivered_ms": 0.5873984118669521,
+          "n_tasks": 14520
+        }
+      ]
+    }
+  }
+]

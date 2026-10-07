@@ -1,0 +1,2834 @@
+{
+ "ideal": {
+  "0": {
+   "FedPPO-QR": {
+    "viol_total": 8.546296296296296,
+    "drop_rate": 8.546296296296296,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5494502670242783,
+    "median_n": 732.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 0.18981481481481483,
+    "drop_rate": 0.18981481481481483,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.4317408495773757,
+    "median_n": 731.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 68.68981481481482,
+    "drop_rate": 68.68981481481482,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6395168831360909,
+    "median_n": 734.0
+   },
+   "Static heuristic": {
+    "viol_total": 2.851851851851852,
+    "drop_rate": 2.851851851851852,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5212155326324238,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.009259259259259259,
+    "drop_rate": 0.009259259259259259,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.3243813203543307,
+    "median_n": 337.0
+   }
+  },
+  "1": {
+   "FedPPO-QR": {
+    "viol_total": 28.020833333333332,
+    "drop_rate": 28.020833333333332,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6476729125569239,
+    "median_n": 442.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 11.041666666666666,
+    "drop_rate": 11.041666666666666,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6575756549361301,
+    "median_n": 441.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 80.89236111111111,
+    "drop_rate": 80.89236111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6511438108624424,
+    "median_n": 445.0
+   },
+   "Static heuristic": {
+    "viol_total": 4.524305555555555,
+    "drop_rate": 4.524305555555555,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5614459547282635,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.07986111111111112,
+    "drop_rate": 0.07986111111111112,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.3834097142855089,
+    "median_n": 389.0
+   }
+  },
+  "2": {
+   "FedPPO-QR": {
+    "viol_total": 20.052083333333336,
+    "drop_rate": 20.052083333333336,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7304314702286113,
+    "median_n": 418.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 18.208333333333336,
+    "drop_rate": 18.208333333333336,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7307484671861554,
+    "median_n": 418.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 82.40972222222223,
+    "drop_rate": 82.40972222222223,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6966844154285645,
+    "median_n": 419.0
+   },
+   "Static heuristic": {
+    "viol_total": 6.565972222222221,
+    "drop_rate": 6.565972222222221,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.613380598006503,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.04166666666666667,
+    "drop_rate": 0.04166666666666667,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.44156312917923163,
+    "median_n": 423.0
+   }
+  },
+  "3": {
+   "FedPPO-QR": {
+    "viol_total": 13.453703703703704,
+    "drop_rate": 13.453703703703704,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5662437579600688,
+    "median_n": 401.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 14.324074074074074,
+    "drop_rate": 14.324074074074074,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5427795352980717,
+    "median_n": 401.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 79.1574074074074,
+    "drop_rate": 79.1574074074074,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5666989824397639,
+    "median_n": 402.0
+   },
+   "Static heuristic": {
+    "viol_total": 5.671296296296297,
+    "drop_rate": 5.671296296296297,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5111420482769232,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.027777777777777776,
+    "drop_rate": 0.027777777777777776,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.3553124659628765,
+    "median_n": 383.0
+   }
+  },
+  "4": {
+   "FedPPO-QR": {
+    "viol_total": 41.02777777777778,
+    "drop_rate": 41.02777777777778,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6633634727373869,
+    "median_n": 451.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 11.567460317460318,
+    "drop_rate": 11.567460317460318,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.684802798204751,
+    "median_n": 451.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 79.11507936507937,
+    "drop_rate": 79.11507936507937,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6758756782349992,
+    "median_n": 451.0
+   },
+   "Static heuristic": {
+    "viol_total": 6.5436507936507935,
+    "drop_rate": 6.5436507936507935,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5850455383626044,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.10317460317460318,
+    "drop_rate": 0.10317460317460318,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.4078610400520247,
+    "median_n": 380.0
+   }
+  },
+  "5": {
+   "FedPPO-QR": {
+    "viol_total": 20.52777777777778,
+    "drop_rate": 20.52777777777778,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.45547735292312724,
+    "median_n": 452.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 1.3402777777777777,
+    "drop_rate": 1.3402777777777777,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.3300571910312258,
+    "median_n": 453.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 66.38194444444444,
+    "drop_rate": 66.38194444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.53918850229783,
+    "median_n": 452.0
+   },
+   "Static heuristic": {
+    "viol_total": 0.42361111111111116,
+    "drop_rate": 0.42361111111111116,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.18309904772716412,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.006944444444444444,
+    "drop_rate": 0.006944444444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.21189994111719207,
+    "median_n": 258.0
+   }
+  },
+  "6": {
+   "FedPPO-QR": {
+    "viol_total": 8.86111111111111,
+    "drop_rate": 8.86111111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5473466288106343,
+    "median_n": 445.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 5.155555555555556,
+    "drop_rate": 5.155555555555556,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5364639601128437,
+    "median_n": 445.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 73.85555555555555,
+    "drop_rate": 73.85555555555555,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5840311572688438,
+    "median_n": 444.0
+   },
+   "Static heuristic": {
+    "viol_total": 2.327777777777778,
+    "drop_rate": 2.327777777777778,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5071532131544298,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.016666666666666666,
+    "drop_rate": 0.016666666666666666,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.3484069627914787,
+    "median_n": 330.0
+   }
+  },
+  "7": {
+   "FedPPO-QR": {
+    "viol_total": 21.37152777777778,
+    "drop_rate": 21.37152777777778,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.8077711402104615,
+    "median_n": 486.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 17.09375,
+    "drop_rate": 17.09375,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.806788788050669,
+    "median_n": 486.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 82.02083333333333,
+    "drop_rate": 82.02083333333333,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7361700836683317,
+    "median_n": 482.0
+   },
+   "Static heuristic": {
+    "viol_total": 12.565972222222221,
+    "drop_rate": 12.565972222222221,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6939397802109796,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.34375,
+    "drop_rate": 0.34375,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.4814397802109796,
+    "median_n": 454.0
+   }
+  },
+  "8": {
+   "FedPPO-QR": {
+    "viol_total": 3.273148148148148,
+    "drop_rate": 3.273148148148148,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6533490029227378,
+    "median_n": 640.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 1.0601851851851851,
+    "drop_rate": 1.0601851851851851,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5327249342770028,
+    "median_n": 640.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 70.8287037037037,
+    "drop_rate": 70.8287037037037,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6543470656841278,
+    "median_n": 642.0
+   },
+   "Static heuristic": {
+    "viol_total": 4.069444444444445,
+    "drop_rate": 4.069444444444445,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.549848555045839,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.027777777777777776,
+    "drop_rate": 0.027777777777777776,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.34352069164069626,
+    "median_n": 354.0
+   }
+  },
+  "9": {
+   "FedPPO-QR": {
+    "viol_total": 45.4375,
+    "drop_rate": 45.4375,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7743359462153607,
+    "median_n": 285.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 46.204861111111114,
+    "drop_rate": 46.204861111111114,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7762305182650596,
+    "median_n": 285.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 86.02430555555556,
+    "drop_rate": 86.02430555555556,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6644683489385396,
+    "median_n": 285.0
+   },
+   "Static heuristic": {
+    "viol_total": 8.302083333333334,
+    "drop_rate": 8.302083333333334,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7423514420499405,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.16666666666666669,
+    "drop_rate": 0.16666666666666669,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5070369633457735,
+    "median_n": 419.0
+   }
+  }
+ },
+ "prop, xi=0": {
+  "0": {
+   "FedPPO-QR": {
+    "viol_total": 17.74074074074074,
+    "drop_rate": 17.74074074074074,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5725785080313593,
+    "median_n": 732.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 0.4675925925925926,
+    "drop_rate": 0.4675925925925926,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.4323121402503503,
+    "median_n": 731.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 72.68518518518519,
+    "drop_rate": 72.68518518518519,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6403149883320557,
+    "median_n": 734.0
+   },
+   "Static heuristic": {
+    "viol_total": 10.703703703703704,
+    "drop_rate": 10.703703703703704,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5245447370283441,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.018518518518518517,
+    "drop_rate": 0.018518518518518517,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.3250833203543308,
+    "median_n": 337.0
+   }
+  },
+  "1": {
+   "FedPPO-QR": {
+    "viol_total": 71.4861111111111,
+    "drop_rate": 71.4861111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6544987772318961,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 43.21527777777778,
+    "drop_rate": 43.21527777777778,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.660873910328204,
+    "median_n": 443.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 87.33680555555556,
+    "drop_rate": 87.33680555555556,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6555805067153182,
+    "median_n": 445.0
+   },
+   "Static heuristic": {
+    "viol_total": 20.743055555555557,
+    "drop_rate": 20.743055555555557,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5628570025222746,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.3680555555555555,
+    "drop_rate": 0.3680555555555555,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.38967314758727256,
+    "median_n": 389.0
+   }
+  },
+  "2": {
+   "FedPPO-QR": {
+    "viol_total": 66.61111111111111,
+    "drop_rate": 66.61111111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7335097920815054,
+    "median_n": 419.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 61.920138888888886,
+    "drop_rate": 61.920138888888886,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7315285136261639,
+    "median_n": 419.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 89.72222222222223,
+    "drop_rate": 89.72222222222223,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7276726376083918,
+    "median_n": 419.0
+   },
+   "Static heuristic": {
+    "viol_total": 29.114583333333332,
+    "drop_rate": 29.114583333333332,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6930100237661544,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.19791666666666669,
+    "drop_rate": 0.19791666666666669,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.4459064727048175,
+    "median_n": 423.0
+   }
+  },
+  "3": {
+   "FedPPO-QR": {
+    "viol_total": 45.38425925925926,
+    "drop_rate": 45.38425925925926,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5664876018024194,
+    "median_n": 402.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 47.78703703703704,
+    "drop_rate": 47.78703703703704,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5684641848944335,
+    "median_n": 402.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 86.06018518518519,
+    "drop_rate": 86.06018518518519,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6583371391404408,
+    "median_n": 402.0
+   },
+   "Static heuristic": {
+    "viol_total": 21.083333333333336,
+    "drop_rate": 21.083333333333336,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6199191265608353,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.12962962962962962,
+    "drop_rate": 0.12962962962962962,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.3572010640370846,
+    "median_n": 383.0
+   }
+  },
+  "4": {
+   "FedPPO-QR": {
+    "viol_total": 75.3452380952381,
+    "drop_rate": 75.3452380952381,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.686788586847281,
+    "median_n": 451.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 44.3968253968254,
+    "drop_rate": 44.3968253968254,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6897622025409557,
+    "median_n": 451.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 86.07539682539682,
+    "drop_rate": 86.07539682539682,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6848837840585177,
+    "median_n": 451.0
+   },
+   "Static heuristic": {
+    "viol_total": 26.8531746031746,
+    "drop_rate": 26.8531746031746,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6639609935382771,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.4880952380952381,
+    "drop_rate": 0.4880952380952381,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.41355804005202446,
+    "median_n": 380.0
+   }
+  },
+  "5": {
+   "FedPPO-QR": {
+    "viol_total": 32.80555555555556,
+    "drop_rate": 32.80555555555556,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.4588973548750843,
+    "median_n": 452.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 3.5624999999999996,
+    "drop_rate": 3.5624999999999996,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.3332319107927162,
+    "median_n": 452.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 70.35416666666666,
+    "drop_rate": 70.35416666666666,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5400068817521212,
+    "median_n": 452.0
+   },
+   "Static heuristic": {
+    "viol_total": 0.8680555555555556,
+    "drop_rate": 0.8680555555555556,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.30484371722856096,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.006944444444444444,
+    "drop_rate": 0.006944444444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.21189994111719207,
+    "median_n": 258.0
+   }
+  },
+  "6": {
+   "FedPPO-QR": {
+    "viol_total": 26.633333333333333,
+    "drop_rate": 26.633333333333333,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5811375742340434,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 18.4,
+    "drop_rate": 18.4,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5473681546496493,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 79.68333333333332,
+    "drop_rate": 79.68333333333332,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5904984398817834,
+    "median_n": 444.0
+   },
+   "Static heuristic": {
+    "viol_total": 8.0,
+    "drop_rate": 8.0,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5235299648004125,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.05,
+    "drop_rate": 0.05,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.3480069627914773,
+    "median_n": 330.0
+   }
+  },
+  "7": {
+   "FedPPO-QR": {
+    "viol_total": 67.45138888888889,
+    "drop_rate": 67.45138888888889,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.8434774741212925,
+    "median_n": 483.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 60.00694444444444,
+    "drop_rate": 60.00694444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.843132706894481,
+    "median_n": 483.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 88.22222222222223,
+    "drop_rate": 88.22222222222223,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.8091667629868344,
+    "median_n": 482.0
+   },
+   "Static heuristic": {
+    "viol_total": 47.89583333333333,
+    "drop_rate": 47.89583333333333,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6939397802109796,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 1.9965277777777777,
+    "drop_rate": 1.9965277777777777,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.4814397802109796,
+    "median_n": 454.0
+   }
+  },
+  "8": {
+   "FedPPO-QR": {
+    "viol_total": 9.703703703703702,
+    "drop_rate": 9.703703703703702,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6550281487458446,
+    "median_n": 640.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 3.935185185185185,
+    "drop_rate": 3.935185185185185,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5349005001288547,
+    "median_n": 640.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 75.64351851851852,
+    "drop_rate": 75.64351851851852,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6937278445175273,
+    "median_n": 642.0
+   },
+   "Static heuristic": {
+    "viol_total": 16.11111111111111,
+    "drop_rate": 16.11111111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5560206916406962,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.12962962962962962,
+    "drop_rate": 0.12962962962962962,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.34352069164069626,
+    "median_n": 354.0
+   }
+  },
+  "9": {
+   "FedPPO-QR": {
+    "viol_total": 90.99652777777779,
+    "drop_rate": 90.99652777777779,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7818729150437203,
+    "median_n": 285.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 90.69791666666667,
+    "drop_rate": 90.69791666666667,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7945572060638025,
+    "median_n": 285.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 93.8611111111111,
+    "drop_rate": 93.8611111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7840419864329451,
+    "median_n": 285.0
+   },
+   "Static heuristic": {
+    "viol_total": 35.03819444444444,
+    "drop_rate": 35.03819444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7663940923342284,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 0.8854166666666666,
+    "drop_rate": 0.8854166666666666,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5193984338810897,
+    "median_n": 419.0
+   }
+  }
+ },
+ "prop, xi=0.001": {
+  "0": {
+   "FedPPO-QR": {
+    "viol_total": 18.61574074074074,
+    "drop_rate": 18.61574074074074,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6406837997673509,
+    "median_n": 732.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 1.25,
+    "drop_rate": 1.25,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.43196097312989246,
+    "median_n": 731.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 72.68518518518519,
+    "drop_rate": 72.68518518518519,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6403149883320557,
+    "median_n": 734.0
+   },
+   "Static heuristic": {
+    "viol_total": 12.11574074074074,
+    "drop_rate": 12.11574074074074,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5267104655387879,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 6.069444444444445,
+    "drop_rate": 6.069444444444445,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.47619673942752694,
+    "median_n": 337.0
+   }
+  },
+  "1": {
+   "FedPPO-QR": {
+    "viol_total": 71.87152777777777,
+    "drop_rate": 71.87152777777777,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6544596317980643,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 46.052083333333336,
+    "drop_rate": 46.052083333333336,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6660031055039675,
+    "median_n": 443.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 87.33680555555556,
+    "drop_rate": 87.33680555555556,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6555805067153182,
+    "median_n": 445.0
+   },
+   "Static heuristic": {
+    "viol_total": 22.81597222222222,
+    "drop_rate": 22.81597222222222,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6432654242482347,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 8.680555555555555,
+    "drop_rate": 8.680555555555555,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5207177142855075,
+    "median_n": 389.0
+   }
+  },
+  "2": {
+   "FedPPO-QR": {
+    "viol_total": 68.76736111111111,
+    "drop_rate": 68.76736111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7369763614536183,
+    "median_n": 419.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 64.39930555555556,
+    "drop_rate": 64.39930555555556,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7359758526204174,
+    "median_n": 419.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 89.72569444444444,
+    "drop_rate": 89.72569444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7277089427213909,
+    "median_n": 419.0
+   },
+   "Static heuristic": {
+    "viol_total": 31.34722222222222,
+    "drop_rate": 31.34722222222222,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6930100237661544,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 7.920138888888889,
+    "drop_rate": 7.920138888888889,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5797039254617822,
+    "median_n": 423.0
+   }
+  },
+  "3": {
+   "FedPPO-QR": {
+    "viol_total": 47.592592592592595,
+    "drop_rate": 47.592592592592595,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5745365231882491,
+    "median_n": 402.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 49.99537037037037,
+    "drop_rate": 49.99537037037037,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5766531394110217,
+    "median_n": 402.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 86.06018518518519,
+    "drop_rate": 86.06018518518519,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6583371391404408,
+    "median_n": 402.0
+   },
+   "Static heuristic": {
+    "viol_total": 22.85185185185185,
+    "drop_rate": 22.85185185185185,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6222209437137696,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 6.171296296296296,
+    "drop_rate": 6.171296296296296,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.46798712656083535,
+    "median_n": 383.0
+   }
+  },
+  "4": {
+   "FedPPO-QR": {
+    "viol_total": 75.53174603174602,
+    "drop_rate": 75.53174603174602,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6869855705630205,
+    "median_n": 451.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 46.26587301587301,
+    "drop_rate": 46.26587301587301,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7036527990466301,
+    "median_n": 451.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 86.07539682539682,
+    "drop_rate": 86.07539682539682,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6848837840585177,
+    "median_n": 451.0
+   },
+   "Static heuristic": {
+    "viol_total": 28.623015873015873,
+    "drop_rate": 28.623015873015873,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6729068136172988,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 6.8809523809523805,
+    "drop_rate": 6.8809523809523805,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5329340400520247,
+    "median_n": 380.0
+   }
+  },
+  "5": {
+   "FedPPO-QR": {
+    "viol_total": 33.5625,
+    "drop_rate": 33.5625,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.46059651312635186,
+    "median_n": 452.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 4.416666666666667,
+    "drop_rate": 4.416666666666667,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.3683050086764479,
+    "median_n": 452.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 70.35416666666666,
+    "drop_rate": 70.35416666666666,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5400068817521212,
+    "median_n": 452.0
+   },
+   "Static heuristic": {
+    "viol_total": 1.5208333333333335,
+    "drop_rate": 1.5208333333333335,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.30484371722856096,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 3.9375,
+    "drop_rate": 3.9375,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.37502042512920986,
+    "median_n": 258.0
+   }
+  },
+  "6": {
+   "FedPPO-QR": {
+    "viol_total": 28.53333333333333,
+    "drop_rate": 28.53333333333333,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5823571382189606,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 20.3,
+    "drop_rate": 20.3,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5499063848376813,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 79.68333333333332,
+    "drop_rate": 79.68333333333332,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5904984398817834,
+    "median_n": 444.0
+   },
+   "Static heuristic": {
+    "viol_total": 9.4,
+    "drop_rate": 9.4,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5235299648004125,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 6.016666666666667,
+    "drop_rate": 6.016666666666667,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.4727669627914779,
+    "median_n": 330.0
+   }
+  },
+  "7": {
+   "FedPPO-QR": {
+    "viol_total": 69.05555555555556,
+    "drop_rate": 69.05555555555556,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.8439044810023671,
+    "median_n": 483.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 62.11458333333333,
+    "drop_rate": 62.11458333333333,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.8435438729510218,
+    "median_n": 483.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 88.22222222222223,
+    "drop_rate": 88.22222222222223,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.8091667629868344,
+    "median_n": 482.0
+   },
+   "Static heuristic": {
+    "viol_total": 50.236111111111114,
+    "drop_rate": 50.236111111111114,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6954379104951308,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 9.527777777777779,
+    "drop_rate": 9.527777777777779,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5807230416602805,
+    "median_n": 454.0
+   }
+  },
+  "8": {
+   "FedPPO-QR": {
+    "viol_total": 10.708333333333334,
+    "drop_rate": 10.708333333333334,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6565668665279886,
+    "median_n": 641.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 4.75,
+    "drop_rate": 4.75,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5684070293609721,
+    "median_n": 640.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 75.64351851851852,
+    "drop_rate": 75.64351851851852,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6937278445175273,
+    "median_n": 642.0
+   },
+   "Static heuristic": {
+    "viol_total": 17.564814814814813,
+    "drop_rate": 17.564814814814813,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5560206916406962,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 5.912037037037037,
+    "drop_rate": 5.912037037037037,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5147539905693532,
+    "median_n": 354.0
+   }
+  },
+  "9": {
+   "FedPPO-QR": {
+    "viol_total": 91.08680555555554,
+    "drop_rate": 91.08680555555554,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.78533615325279,
+    "median_n": 285.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 90.82638888888889,
+    "drop_rate": 90.82638888888889,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.788665952596305,
+    "median_n": 285.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 93.8611111111111,
+    "drop_rate": 93.8611111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7840419864329451,
+    "median_n": 285.0
+   },
+   "Static heuristic": {
+    "viol_total": 37.322916666666664,
+    "drop_rate": 37.322916666666664,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7663940923342284,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 8.607638888888888,
+    "drop_rate": 8.607638888888888,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6345841886501635,
+    "median_n": 419.0
+   }
+  }
+ },
+ "prop, xi=0.01": {
+  "0": {
+   "FedPPO-QR": {
+    "viol_total": 24.837962962962962,
+    "drop_rate": 24.837962962962962,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6664033625277631,
+    "median_n": 732.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 7.166666666666667,
+    "drop_rate": 7.166666666666667,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5229861932455566,
+    "median_n": 731.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 72.68981481481481,
+    "drop_rate": 72.68981481481481,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6402513397779536,
+    "median_n": 734.0
+   },
+   "Static heuristic": {
+    "viol_total": 21.662037037037038,
+    "drop_rate": 21.662037037037038,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6390804201523645,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 23.962962962962962,
+    "drop_rate": 23.962962962962962,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6041350321251836,
+    "median_n": 337.0
+   }
+  },
+  "1": {
+   "FedPPO-QR": {
+    "viol_total": 74.08333333333333,
+    "drop_rate": 74.08333333333333,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6560718536170247,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 59.416666666666664,
+    "drop_rate": 59.416666666666664,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6652045986606707,
+    "median_n": 443.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 87.34722222222221,
+    "drop_rate": 87.34722222222221,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.655604447433813,
+    "median_n": 445.0
+   },
+   "Static heuristic": {
+    "viol_total": 37.888888888888886,
+    "drop_rate": 37.888888888888886,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6684931879799607,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 28.444444444444443,
+    "drop_rate": 28.444444444444443,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.635292969753318,
+    "median_n": 389.0
+   }
+  },
+  "2": {
+   "FedPPO-QR": {
+    "viol_total": 75.66666666666667,
+    "drop_rate": 75.66666666666667,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7405681381112412,
+    "median_n": 419.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 73.25,
+    "drop_rate": 73.25,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7419119186359947,
+    "median_n": 419.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 89.72569444444444,
+    "drop_rate": 89.72569444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7277089427213909,
+    "median_n": 419.0
+   },
+   "Static heuristic": {
+    "viol_total": 46.125,
+    "drop_rate": 46.125,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7246460016927226,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 27.63888888888889,
+    "drop_rate": 27.63888888888889,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6911145139911068,
+    "median_n": 423.0
+   }
+  },
+  "3": {
+   "FedPPO-QR": {
+    "viol_total": 59.75462962962963,
+    "drop_rate": 59.75462962962963,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6133477179117564,
+    "median_n": 402.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 61.282407407407405,
+    "drop_rate": 61.282407407407405,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6138105518593162,
+    "median_n": 402.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 86.06018518518519,
+    "drop_rate": 86.06018518518519,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6583371391404408,
+    "median_n": 402.0
+   },
+   "Static heuristic": {
+    "viol_total": 34.416666666666664,
+    "drop_rate": 34.416666666666664,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6313305108293227,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 24.972222222222225,
+    "drop_rate": 24.972222222222225,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6027150324735452,
+    "median_n": 383.0
+   }
+  },
+  "4": {
+   "FedPPO-QR": {
+    "viol_total": 76.53174603174602,
+    "drop_rate": 76.53174603174602,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.68378082573228,
+    "median_n": 451.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 57.01587301587302,
+    "drop_rate": 57.01587301587302,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7206367270073909,
+    "median_n": 451.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 86.07936507936508,
+    "drop_rate": 86.07936507936508,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6848858136503236,
+    "median_n": 451.0
+   },
+   "Static heuristic": {
+    "viol_total": 40.476190476190474,
+    "drop_rate": 40.476190476190474,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.697903065990686,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 25.658730158730158,
+    "drop_rate": 25.658730158730158,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6312308523709899,
+    "median_n": 380.0
+   }
+  },
+  "5": {
+   "FedPPO-QR": {
+    "viol_total": 38.48611111111111,
+    "drop_rate": 38.48611111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5408531171244764,
+    "median_n": 452.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 11.354166666666666,
+    "drop_rate": 11.354166666666666,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.4558758065840979,
+    "median_n": 452.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 70.35416666666666,
+    "drop_rate": 70.35416666666666,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5400068817521212,
+    "median_n": 452.0
+   },
+   "Static heuristic": {
+    "viol_total": 7.138888888888889,
+    "drop_rate": 7.138888888888889,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.41152042512920983,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 19.875,
+    "drop_rate": 19.875,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5000204251292099,
+    "median_n": 258.0
+   }
+  },
+  "6": {
+   "FedPPO-QR": {
+    "viol_total": 39.205555555555556,
+    "drop_rate": 39.205555555555556,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5957708845663273,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 31.738888888888887,
+    "drop_rate": 31.738888888888887,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5904118640272541,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 79.68888888888888,
+    "drop_rate": 79.68888888888888,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5904993513022541,
+    "median_n": 444.0
+   },
+   "Static heuristic": {
+    "viol_total": 18.8,
+    "drop_rate": 18.8,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5271339354899786,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 23.805555555555554,
+    "drop_rate": 23.805555555555554,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5996532131544299,
+    "median_n": 330.0
+   }
+  },
+  "7": {
+   "FedPPO-QR": {
+    "viol_total": 74.51736111111111,
+    "drop_rate": 74.51736111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.8438749990834205,
+    "median_n": 483.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 70.71875,
+    "drop_rate": 70.71875,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.844035846429188,
+    "median_n": 483.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 88.23263888888889,
+    "drop_rate": 88.23263888888889,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.8102296167915574,
+    "median_n": 482.0
+   },
+   "Static heuristic": {
+    "viol_total": 61.96874999999999,
+    "drop_rate": 61.96874999999999,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7273907117308381,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 29.100694444444446,
+    "drop_rate": 29.100694444444446,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6800980234591958,
+    "median_n": 454.0
+   }
+  },
+  "8": {
+   "FedPPO-QR": {
+    "viol_total": 19.555555555555557,
+    "drop_rate": 19.555555555555557,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.693940146629215,
+    "median_n": 641.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 13.115740740740742,
+    "drop_rate": 13.115740740740742,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6588707855918423,
+    "median_n": 640.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 75.66666666666667,
+    "drop_rate": 75.66666666666667,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6934556979286376,
+    "median_n": 642.0
+   },
+   "Static heuristic": {
+    "viol_total": 28.967592592592595,
+    "drop_rate": 28.967592592592595,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6615946982118323,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 24.810185185185183,
+    "drop_rate": 24.810185185185183,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6213270038174166,
+    "median_n": 354.0
+   }
+  },
+  "9": {
+   "FedPPO-QR": {
+    "viol_total": 91.48263888888889,
+    "drop_rate": 91.48263888888889,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7965413574019174,
+    "median_n": 285.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 91.28472222222223,
+    "drop_rate": 91.28472222222223,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7969537894969186,
+    "median_n": 285.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 93.8611111111111,
+    "drop_rate": 93.8611111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7840419864329451,
+    "median_n": 285.0
+   },
+   "Static heuristic": {
+    "viol_total": 51.03819444444444,
+    "drop_rate": 51.03819444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7866230524339272,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 28.631944444444446,
+    "drop_rate": 28.631944444444446,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7402640923342295,
+    "median_n": 419.0
+   }
+  }
+ },
+ "prop, xi=0.05": {
+  "0": {
+   "FedPPO-QR": {
+    "viol_total": 38.88425925925926,
+    "drop_rate": 38.88425925925926,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6665074451712336,
+    "median_n": 733.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 23.22685185185185,
+    "drop_rate": 23.22685185185185,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6422033053863658,
+    "median_n": 732.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 72.72685185185185,
+    "drop_rate": 72.72685185185185,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6403040060897331,
+    "median_n": 734.0
+   },
+   "Static heuristic": {
+    "viol_total": 43.291666666666664,
+    "drop_rate": 43.291666666666664,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6462155326324238,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 46.13888888888889,
+    "drop_rate": 46.13888888888889,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.630263739427527,
+    "median_n": 337.0
+   }
+  },
+  "1": {
+   "FedPPO-QR": {
+    "viol_total": 77.96527777777777,
+    "drop_rate": 77.96527777777777,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6559926597226939,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 71.35416666666666,
+    "drop_rate": 71.35416666666666,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7118633406796738,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 87.36458333333333,
+    "drop_rate": 87.36458333333333,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6573620235925046,
+    "median_n": 445.0
+   },
+   "Static heuristic": {
+    "viol_total": 59.13194444444444,
+    "drop_rate": 59.13194444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6684931879799608,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 50.64930555555556,
+    "drop_rate": 50.64930555555556,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6642087558960416,
+    "median_n": 389.0
+   }
+  },
+  "2": {
+   "FedPPO-QR": {
+    "viol_total": 81.27430555555556,
+    "drop_rate": 81.27430555555556,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.741211374877439,
+    "median_n": 419.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 80.34027777777779,
+    "drop_rate": 80.34027777777779,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7409230606861038,
+    "median_n": 419.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 89.72569444444444,
+    "drop_rate": 89.72569444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7307820118485536,
+    "median_n": 419.0
+   },
+   "Static heuristic": {
+    "viol_total": 65.26041666666667,
+    "drop_rate": 65.26041666666667,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7266064727048175,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 50.145833333333336,
+    "drop_rate": 50.145833333333336,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7288343773903124,
+    "median_n": 423.0
+   }
+  },
+  "3": {
+   "FedPPO-QR": {
+    "viol_total": 71.92592592592592,
+    "drop_rate": 71.92592592592592,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6114445093811864,
+    "median_n": 402.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 72.61111111111111,
+    "drop_rate": 72.61111111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6318610542526567,
+    "median_n": 402.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 86.06481481481481,
+    "drop_rate": 86.06481481481481,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6583375598747945,
+    "median_n": 402.0
+   },
+   "Static heuristic": {
+    "viol_total": 54.9537037037037,
+    "drop_rate": 54.9537037037037,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6361420482769232,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 46.85185185185185,
+    "drop_rate": 46.85185185185185,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6238495017350564,
+    "median_n": 383.0
+   }
+  },
+  "4": {
+   "FedPPO-QR": {
+    "viol_total": 78.92063492063492,
+    "drop_rate": 78.92063492063492,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6857794823126057,
+    "median_n": 451.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 70.01190476190476,
+    "drop_rate": 70.01190476190476,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7223438408645482,
+    "median_n": 451.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 86.0873015873016,
+    "drop_rate": 86.0873015873016,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6858622407447728,
+    "median_n": 451.0
+   },
+   "Static heuristic": {
+    "viol_total": 58.53174603174603,
+    "drop_rate": 58.53174603174603,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.697903065990686,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 47.57142857142857,
+    "drop_rate": 47.57142857142857,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6885230400520245,
+    "median_n": 380.0
+   }
+  },
+  "5": {
+   "FedPPO-QR": {
+    "viol_total": 48.31944444444444,
+    "drop_rate": 48.31944444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5426218341043344,
+    "median_n": 452.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 28.65277777777778,
+    "drop_rate": 28.65277777777778,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5426257721243946,
+    "median_n": 452.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 70.36805555555556,
+    "drop_rate": 70.36805555555556,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5400073392079903,
+    "median_n": 452.0
+   },
+   "Static heuristic": {
+    "viol_total": 21.541666666666668,
+    "drop_rate": 21.541666666666668,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5365204251292098,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 41.625,
+    "drop_rate": 41.625,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5240991083919784,
+    "median_n": 258.0
+   }
+  },
+  "6": {
+   "FedPPO-QR": {
+    "viol_total": 56.03888888888889,
+    "drop_rate": 56.03888888888889,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6541239018415784,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 51.522222222222226,
+    "drop_rate": 51.522222222222226,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6537156460960917,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 79.68888888888888,
+    "drop_rate": 79.68888888888888,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5904993513022541,
+    "median_n": 444.0
+   },
+   "Static heuristic": {
+    "viol_total": 39.37777777777778,
+    "drop_rate": 39.37777777777778,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6485299648004125,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 45.272222222222226,
+    "drop_rate": 45.272222222222226,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6263606791869538,
+    "median_n": 330.0
+   }
+  },
+  "7": {
+   "FedPPO-QR": {
+    "viol_total": 80.05208333333333,
+    "drop_rate": 80.05208333333333,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.8429105265106405,
+    "median_n": 482.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 78.5173611111111,
+    "drop_rate": 78.5173611111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.8431009589444415,
+    "median_n": 482.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 88.25347222222221,
+    "drop_rate": 88.25347222222221,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.8123553244010193,
+    "median_n": 482.0
+   },
+   "Static heuristic": {
+    "viol_total": 73.57986111111111,
+    "drop_rate": 73.57986111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6954379104951308,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 52.53819444444444,
+    "drop_rate": 52.53819444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7314397802109796,
+    "median_n": 454.0
+   }
+  },
+  "8": {
+   "FedPPO-QR": {
+    "viol_total": 38.54166666666667,
+    "drop_rate": 38.54166666666667,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6971795512565971,
+    "median_n": 641.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 33.375,
+    "drop_rate": 33.375,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6945965468231973,
+    "median_n": 641.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 75.7175925925926,
+    "drop_rate": 75.7175925925926,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6934694701609729,
+    "median_n": 642.0
+   },
+   "Static heuristic": {
+    "viol_total": 49.71759259259259,
+    "drop_rate": 49.71759259259259,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6689539905693532,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 46.407407407407405,
+    "drop_rate": 46.407407407407405,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6589665891945533,
+    "median_n": 354.0
+   }
+  },
+  "9": {
+   "FedPPO-QR": {
+    "viol_total": 92.19444444444444,
+    "drop_rate": 92.19444444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7969662268549899,
+    "median_n": 285.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 92.04166666666667,
+    "drop_rate": 92.04166666666667,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7962313217857818,
+    "median_n": 285.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 93.8611111111111,
+    "drop_rate": 93.8611111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7840419864329451,
+    "median_n": 285.0
+   },
+   "Static heuristic": {
+    "viol_total": 66.82986111111111,
+    "drop_rate": 66.82986111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7866230524339272,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 51.541666666666664,
+    "drop_rate": 51.541666666666664,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.78452343388109,
+    "median_n": 419.0
+   }
+  }
+ },
+ "prop, xi=0.1": {
+  "0": {
+   "FedPPO-QR": {
+    "viol_total": 47.50925925925926,
+    "drop_rate": 47.50925925925926,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.666275647108322,
+    "median_n": 733.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 35.138888888888886,
+    "drop_rate": 35.138888888888886,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.668483415882801,
+    "median_n": 732.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 72.77777777777777,
+    "drop_rate": 72.77777777777777,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6447902783513637,
+    "median_n": 734.0
+   },
+   "Static heuristic": {
+    "viol_total": 54.87037037037037,
+    "drop_rate": 54.87037037037037,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6495447370283441,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 56.68518518518518,
+    "drop_rate": 56.68518518518518,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6414581381079766,
+    "median_n": 337.0
+   }
+  },
+  "1": {
+   "FedPPO-QR": {
+    "viol_total": 80.40972222222223,
+    "drop_rate": 80.40972222222223,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6585356881213819,
+    "median_n": 445.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 76.20486111111111,
+    "drop_rate": 76.20486111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6618523999729596,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 87.39583333333333,
+    "drop_rate": 87.39583333333333,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6569445216108089,
+    "median_n": 445.0
+   },
+   "Static heuristic": {
+    "viol_total": 66.90277777777777,
+    "drop_rate": 66.90277777777777,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6684931879799608,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 61.06944444444444,
+    "drop_rate": 61.06944444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6722499829226201,
+    "median_n": 389.0
+   }
+  },
+  "2": {
+   "FedPPO-QR": {
+    "viol_total": 83.71875,
+    "drop_rate": 83.71875,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7356515595727787,
+    "median_n": 419.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 83.15625,
+    "drop_rate": 83.15625,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7359002987296647,
+    "median_n": 419.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 89.76388888888889,
+    "drop_rate": 89.76388888888889,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7310353713320277,
+    "median_n": 419.0
+   },
+   "Static heuristic": {
+    "viol_total": 72.12152777777779,
+    "drop_rate": 72.12152777777779,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7266064727048175,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 60.99652777777778,
+    "drop_rate": 60.99652777777778,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7347600627921924,
+    "median_n": 423.0
+   }
+  },
+  "3": {
+   "FedPPO-QR": {
+    "viol_total": 76.58796296296296,
+    "drop_rate": 76.58796296296296,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6600157889715461,
+    "median_n": 402.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 77.02777777777777,
+    "drop_rate": 77.02777777777777,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.660138413316165,
+    "median_n": 402.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 86.06944444444444,
+    "drop_rate": 86.06944444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.658337980609148,
+    "median_n": 402.0
+   },
+   "Static heuristic": {
+    "viol_total": 63.601851851851855,
+    "drop_rate": 63.601851851851855,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6361420482769232,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 57.587962962962955,
+    "drop_rate": 57.587962962962955,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6324096257267988,
+    "median_n": 383.0
+   }
+  },
+  "4": {
+   "FedPPO-QR": {
+    "viol_total": 80.52380952380952,
+    "drop_rate": 80.52380952380952,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7133145691049401,
+    "median_n": 451.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 75.07539682539682,
+    "drop_rate": 75.07539682539682,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7228683626443383,
+    "median_n": 451.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 86.10714285714286,
+    "drop_rate": 86.10714285714286,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.71528001067259,
+    "median_n": 451.0
+   },
+   "Static heuristic": {
+    "viol_total": 66.11111111111111,
+    "drop_rate": 66.11111111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.697903065990686,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 58.833333333333336,
+    "drop_rate": 58.833333333333336,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7019761046318812,
+    "median_n": 380.0
+   }
+  },
+  "5": {
+   "FedPPO-QR": {
+    "viol_total": 54.0,
+    "drop_rate": 54.0,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5412593045275279,
+    "median_n": 452.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 40.09722222222222,
+    "drop_rate": 40.09722222222222,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5429614090530543,
+    "median_n": 452.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 70.39583333333333,
+    "drop_rate": 70.39583333333333,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5400755828047937,
+    "median_n": 452.0
+   },
+   "Static heuristic": {
+    "viol_total": 32.263888888888886,
+    "drop_rate": 32.263888888888886,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5511940903845732,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 51.63194444444444,
+    "drop_rate": 51.63194444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5339430477271639,
+    "median_n": 258.0
+   }
+  },
+  "6": {
+   "FedPPO-QR": {
+    "viol_total": 63.511111111111106,
+    "drop_rate": 63.511111111111106,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6542230702677448,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 60.605555555555554,
+    "drop_rate": 60.605555555555554,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6542426806765054,
+    "median_n": 444.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 79.71666666666667,
+    "drop_rate": 79.71666666666667,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.5904282623107138,
+    "median_n": 444.0
+   },
+   "Static heuristic": {
+    "viol_total": 50.72777777777778,
+    "drop_rate": 50.72777777777778,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6485299648004125,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 55.51666666666667,
+    "drop_rate": 55.51666666666667,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.635972213640292,
+    "median_n": 330.0
+   }
+  },
+  "7": {
+   "FedPPO-QR": {
+    "viol_total": 82.39583333333333,
+    "drop_rate": 82.39583333333333,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.8427826860361413,
+    "median_n": 482.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 81.39236111111111,
+    "drop_rate": 81.39236111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.8430520216566754,
+    "median_n": 482.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 88.28819444444444,
+    "drop_rate": 88.28819444444444,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.8419255347989437,
+    "median_n": 482.0
+   },
+   "Static heuristic": {
+    "viol_total": 77.76736111111111,
+    "drop_rate": 77.76736111111111,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6954379104951308,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 63.37152777777778,
+    "drop_rate": 63.37152777777778,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7370847661480046,
+    "median_n": 454.0
+   }
+  },
+  "8": {
+   "FedPPO-QR": {
+    "viol_total": 49.25925925925926,
+    "drop_rate": 49.25925925925926,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6951745335836745,
+    "median_n": 641.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 45.34259259259259,
+    "drop_rate": 45.34259259259259,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6944512226592294,
+    "median_n": 641.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 75.75,
+    "drop_rate": 75.75,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6935905332768517,
+    "median_n": 642.0
+   },
+   "Static heuristic": {
+    "viol_total": 58.78703703703704,
+    "drop_rate": 58.78703703703704,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6689539905693532,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 56.81018518518518,
+    "drop_rate": 56.81018518518518,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.6668964686227691,
+    "median_n": 354.0
+   }
+  },
+  "9": {
+   "FedPPO-QR": {
+    "viol_total": 92.63888888888889,
+    "drop_rate": 92.63888888888889,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7915968548666006,
+    "median_n": 285.0
+   },
+   "FedPPO-QR, descending-gain order": {
+    "viol_total": 92.50347222222223,
+    "drop_rate": 92.50347222222223,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7949479271998676,
+    "median_n": 285.0
+   },
+   "FedPPO-QR, ascending-gain order": {
+    "viol_total": 93.87152777777777,
+    "drop_rate": 93.87152777777777,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7789770395805278,
+    "median_n": 285.0
+   },
+   "Static heuristic": {
+    "viol_total": 72.6875,
+    "drop_rate": 72.6875,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7866230524339272,
+    "median_n": 525.0
+   },
+   "Adaptive heuristic": {
+    "viol_total": 62.16666666666667,
+    "drop_rate": 62.16666666666667,
+    "late_rate": 0.0,
+    "over_1ms": 0.0,
+    "over_2ms": 0.0,
+    "p99_deliv": 0.7925806707630667,
+    "median_n": 419.0
+   }
+  }
+ }
+}

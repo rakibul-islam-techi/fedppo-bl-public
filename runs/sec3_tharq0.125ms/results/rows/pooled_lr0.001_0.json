@@ -1,0 +1,1 @@
+{"n_tasks": 21600, "viol_total": 100.0, "viol_reported": 0.0, "drop_rate": 100.0, "cap_rate": 0.0, "viol_delivered": NaN, "median_eps": 1.0, "median_n": 150.0, "n_iqr": [150.0, 150.0], "delivered": {"p99": NaN, "p999": NaN, "cvar": NaN, "mean": NaN}, "all_tasks": {"p99": 0.39, "p999": 0.39, "cvar": 0.39, "mean": 0.39}}

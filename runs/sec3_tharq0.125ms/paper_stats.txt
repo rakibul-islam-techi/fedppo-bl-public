@@ -1,0 +1,270 @@
+Section III model  t_HARQ 0.125 ms  N_HARQ 4  P_k 23 dBm  kappa 0  seeds 10
+
+Pooled latency statistics (ms), all seeds pooled
+method                   N    mean     p95     p99   p99.9  CVaR95   viol%  dl pct  alpha*
+FedPPO-QR           237600   0.325   0.487   0.669   0.844   0.587    0.00  100.00   1.000
+FedPPO-Mean         237600   0.342   0.507   0.664   0.843   0.594    0.00  100.00   1.000
+FedAvg-DDQN         237600   0.316   0.448   0.563   0.757   0.515    0.00  100.00   1.000
+Centralized-QR      237600   0.355   0.497   0.626   0.776   0.560    0.00  100.00   1.000
+Heuristic           237600   0.318   0.428   0.607   0.742   0.492    0.00  100.00   1.000
+
+Seed-level statistics: mean over seeds [95% t-interval]
+FedAvg-DDQN            mean 0.297 [0.253, 0.341]  p99 0.514 [0.410, 0.617]  p999 0.689 [0.608, 0.771]  cvar 0.413 [0.324, 0.503]  drop_rate 8.39 [-0.81, 17.58]  viol_total 8.39 [-0.81, 17.58]  viol_reported 0.00 [0.00, 0.00]
+FedPPO-QR              mean 0.292 [0.247, 0.336]  p99 0.640 [0.560, 0.719]  p999 0.768 [0.698, 0.838]  cvar 0.547 [0.459, 0.636]  drop_rate 21.06 [11.16, 30.95]  viol_total 21.06 [11.16, 30.95]  viol_reported 0.00 [0.00, 0.00]
+FedPPO-Mean            mean 0.294 [0.245, 0.344]  p99 0.659 [0.587, 0.731]  p999 0.768 [0.696, 0.841]  cvar 0.564 [0.492, 0.635]  drop_rate 26.82 [13.87, 39.77]  viol_total 26.82 [13.87, 39.77]  viol_reported 0.00 [0.00, 0.00]
+Centralized-QR         mean 0.310 [0.265, 0.356]  p99 0.614 [0.532, 0.695]  p999 0.755 [0.678, 0.833]  cvar 0.553 [0.486, 0.619]  drop_rate 32.52 [9.82, 55.22]  viol_total 32.52 [9.82, 55.22]  viol_reported 0.00 [0.00, 0.00]
+Heuristic              mean 0.301 [0.256, 0.346]  p99 0.547 [0.440, 0.654]  p999 0.686 [0.638, 0.734]  cvar 0.438 [0.336, 0.541]  drop_rate 5.38 [2.93, 7.84]  viol_total 5.38 [2.93, 7.84]  viol_reported 0.00 [0.00, 0.00]
+Heuristic-adaptive-n   mean 0.282 [0.236, 0.328]  p99 0.380 [0.320, 0.441]  p999 0.508 [0.417, 0.599]  cvar 0.360 [0.305, 0.415]  drop_rate 0.08 [0.01, 0.16]  viol_total 0.08 [0.01, 0.16]  viol_reported 0.00 [0.00, 0.00]
+
+Paired comparison against FedPPO-QR (positive delta = more violations)
+arm                      total    delta       p    MDE   recorded    delta       p    MDE
+pooled_lr0.001           71.72   +50.66  0.0011  34.04       0.00    +0.00     n/a   0.00
+block350                 32.93   +11.87  0.0367  15.26       0.00    +0.00     n/a   0.00
+Centralized-QR           32.52   +11.46  0.2472  29.17       0.00    +0.00     n/a   0.00
+local_shared             27.07    +6.01  0.0545   8.57       0.00    +0.00     n/a   0.00
+FedPPO-Mean              26.82    +5.76  0.3714  19.29       0.00    +0.00     n/a   0.00
+local                    24.85    +3.79  0.1476   7.53       0.00    +0.00     n/a   0.00
+agg_median               20.88    -0.17  0.9468   8.00       0.00    +0.00     n/a   0.00
+agg_trimmed              20.70    -0.36  0.8671   6.57       0.00    +0.00     n/a   0.00
+pooled_lr0.0001          19.86    -1.20  0.7988  14.41       0.00    +0.00     n/a   0.00
+rho05                    17.96    -3.10  0.3276   9.43       0.00    +0.00     n/a   0.00
+scale10                  17.70    -3.36  0.5394  16.59       0.00    +0.00     n/a   0.00
+block500                 16.63    -4.43  0.3162  13.14       0.00    +0.00     n/a   0.00
+block500_nohead          14.72    -6.33  0.1221  11.69       0.00    +0.00     n/a   0.00
+FedAvg-DDQN               8.39   -12.67  0.0589  18.46       0.00    +0.00     n/a   0.00
+block800                  6.77   -14.29  0.0054  12.36       0.00    +0.00     n/a   0.00
+Heuristic                 5.38   -15.67  0.0037  12.70       0.00    +0.00     n/a   0.00
+Heuristic-adaptive-n      0.08   -20.97  0.0010  13.73       0.00    +0.00     n/a   0.00
+significant at 0.05: 5 of 17 on the total rate, 0 on the recorded-latency rate
+
+Total minus recorded-latency rate (failed tasks recorded at or below the deadline)
+  FedPPO-QR              21.06
+  Heuristic              5.38
+  Heuristic-adaptive-n   0.08
+
+Median per-attempt task error probability 1-(1-eps_k1)(1-eps_k2), averaged over devices in each interval
+  FedAvg-DDQN            3.14e-02
+  FedPPO-QR              2.67e-01
+  FedPPO-Mean            3.08e-01
+  Centralized-QR         1.75e-01
+  Heuristic              7.06e-02
+  Heuristic-adaptive-n   9.63e-03
+
+Median selected blocklength in evaluation (median over seeds)
+  FedAvg-DDQN            525
+  FedPPO-QR              448
+  FedPPO-Mean            446
+  Centralized-QR         631
+  Heuristic              525
+  Heuristic-adaptive-n   382
+
+Quantile critic against mean critic, delivered tasks (QR minus Mean)
+  p99   delta -0.019 [-0.051, +0.012] p=0.191 MDE 0.043  equivalence bound 0.045 (7.0% of the mean)
+  cvar  delta -0.016 [-0.041, +0.009] p=0.182 MDE 0.035  equivalence bound 0.036 (6.6% of the mean)
+  p999  delta -0.000 [-0.010, +0.010] p=0.963 MDE 0.014  equivalence bound 0.008 (1.0% of the mean)
+  mean  delta -0.003 [-0.015, +0.009] p=0.601 MDE 0.017  equivalence bound 0.013 (4.5% of the mean)
+
+Heuristic against FedPPO-QR
+  delivered p99, heuristic minus QR: -0.093 [-0.144, -0.042] p=0.0026
+  recorded rate, heuristic minus QR: 0.00 p=nan
+  total rate, QR minus heuristic: 15.67 p=0.0037 MDE 12.70
+
+Adaptive-blocklength heuristic
+  heuristic minus adaptive: 5.30 [2.92, 7.69] p=0.0007 MDE 3.32
+  FedPPO-QR minus adaptive: 20.97 [11.11, 30.84] p=0.0010 MDE 13.73; seeds for MDE below the difference: 6
+  FedPPO-Mean minus adaptive: 26.74 [13.79, 39.68] p=0.0012 MDE 18.03; seeds for MDE below the difference: 6
+
+Federated arms against FedPPO-QR, total violations
+  Centralized-QR         minus QR: +11.46 [-9.49, +32.41] p=0.2472
+  FedPPO-Mean            minus QR: +5.76 [-8.09, +19.62] p=0.3714
+  FedAvg-DDQN            minus QR: -12.67 [-25.93, +0.59] p=0.0589
+
+Ratios of total violation rate to FedPPO-QR
+  FedPPO-Mean            1.27
+  Centralized-QR         1.54
+  Heuristic              0.26
+  Heuristic-adaptive-n   0.00
+  scale10                0.84
+  block350               1.56
+  block500               0.79
+  block800               0.32
+  block500_nohead        0.70
+  local                  1.18
+  agg_median             0.99
+  agg_trimmed            0.98
+  rho05                  0.85
+  local_shared           1.29
+  pooled_lr0.0001        0.94
+  pooled_lr0.001         3.41
+
+Fixed-blocklength arms
+  block350: minus heuristic 27.54 [18.36, 36.72] p=8e-05;  all-task mean vs QR +0.004 (p=0.45), p99 +0.002 (p=0.89)
+  block500: minus heuristic 11.25 [1.16, 21.33] p=0.033;  all-task mean vs QR -0.003 (p=0.56), p99 -0.010 (p=0.46)
+  block800: minus heuristic 1.38 [-7.74, 10.51] p=0.74;  all-task mean vs QR +0.015 (p=0.0087), p99 -0.074 (p=0.026)
+  head removed minus head kept, n_k = 500, total: -1.91 [-9.34, +5.53] p=0.5760
+  local        minus QR, total: +3.79 [-1.62, +9.20] p=0.1476
+  local_shared minus QR, total: +6.01 [-0.14, +12.17] p=0.0545
+  agg_median   minus QR, total: -0.17 [-5.92, +5.57] p=0.9468
+  agg_trimmed  minus QR, total: -0.36 [-5.08, +4.36] p=0.8671
+  scale10      minus QR, total: -3.36 [-15.28, +8.56] p=0.5394
+  rho05        minus QR, total: -3.10 [-9.88, +3.67] p=0.3276
+  initialization effect, local minus local_shared, total: -2.23 [-7.65, +3.20] p=0.3777
+  federation effect, local_shared minus QR, total: +6.01 [-0.14, +12.17] p=0.0545
+
+  Non-federated PPO-QR learning-rate sweep, total violation, minus FedPPO-QR
+    pooled_lr0.0001           19.86%  -1.20 [-11.55, +9.15] p=0.7988
+    pooled_lr0.001            71.72%  +50.66 [+26.21, +75.11] p=0.0011
+    pooled_lr0.0003 (main)    32.52%  +11.46 [-9.49, +32.41] p=0.2472
+
+Tasks above the 3 T_max recording cap, mean over seeds
+  FedAvg-DDQN            0.0000%
+  FedPPO-QR              0.0000%
+  FedPPO-Mean            0.0000%
+  Centralized-QR         0.0000%
+  Heuristic              0.0000%
+  Heuristic-adaptive-n   0.0000%
+
+Selected blocklength (conditional-blocklength queries)
+  FedPPO-QR    median 446.0, IQR [416.0, 486.0] (9.3% of the range), r(post-SIC SINR) +0.045, r(demand) -0.088
+  FedPPO-Mean  median 451.0, IQR [414.0, 466.0] (6.9% of the range), r(post-SIC SINR) -0.219, r(demand) -0.113
+  median gap -1.1%, IQR ratio 1.3
+
+Same blocklength, static versus learned other controls, total violation, same environments
+  n_k 350: static controls 24.42%, learned controls 32.93%, learned minus static +8.51 [-0.04, +17.06] p=0.0508
+  n_k 500: static controls 6.83%, learned controls 16.63%, learned minus static +9.80 [-0.28, +19.87] p=0.0553
+  n_k 800: static controls 0.27%, learned controls 6.77%, learned minus static +6.49 [-2.42, +15.41] p=0.1337
+  static heuristic, n_k 525: 5.38%
+
+Quantile resolution M, FedPPO-QR, seed-level (M = 200 is the principal arm)
+  M =  20: total 18.02%, minus M=200 -0.85 [-6.63, +4.93] p=0.5904;  delivered p99 minus M=200 -0.004 ms p=0.9519  (3 seeds)
+  M =  50: total 14.68%, minus M=200 -4.19 [-32.93, +24.54] p=0.5943;  delivered p99 minus M=200 -0.038 ms p=0.3168  (3 seeds)
+  M = 100: total 19.72%, minus M=200 +0.85 [-23.44, +25.13] p=0.8944;  delivered p99 minus M=200 -0.017 ms p=0.8041  (3 seeds)
+  M = 500: total 24.68%, minus M=200 +5.81 [-39.26, +50.88] p=0.6349;  delivered p99 minus M=200 -0.007 ms p=0.1249  (3 seeds)
+  M = 200: total 18.87% (seeds 0-2)
+
+Adaptive risk level, alpha_r = 1 - total violation rate of the round r-1 rollouts (environment seeds 10100 + s; qr_fixed and mean_adaptive are the main checkpoints)
+  qr_fixed       alpha_final 0.950  1 - recorded 1.000  1 - total 0.789  drop 21.06  total 21.06
+  qr_adaptive    alpha_final 0.512  1 - recorded 1.000  1 - total 0.677  drop 32.27  total 32.27
+  mean_adaptive  alpha_final 0.504  1 - recorded 1.000  1 - total 0.732  drop 26.82  total 26.82
+  qr_adaptive    alpha_final minus (1 - total violation of the evaluated policy): -0.165
+  qr_adaptive    rounds at the alpha clip: 104.1 of 150
+  mean_adaptive  alpha_final minus (1 - total violation of the evaluated policy): -0.228
+  mean_adaptive  rounds at the alpha clip: 132.0 of 150
+  adaptive QR minus adaptive Mean, delivered p99: -0.039 p=0.034
+  adaptive QR minus adaptive Mean, delivered p999: -0.005 p=0.555
+  adaptive minus fixed QR, total: 11.21 [-6.05, 28.48] p=0.1759
+  adaptive minus fixed QR, delivered p99: -0.020 p=0.3251
+  adaptive minus fixed QR, delivered p999: -0.005 p=0.6283
+
+Blocklength sweep
+  n_k = 150: recorded 0.00, total 82.48, drop 82.48
+  Spearman with n_k: recorded undefined (constant), total -1.000, drop -1.000; Pearson(total - recorded, drop) +1.000
+  lowest total at n_k = 900 (0.15%); recorded maximum 0.00%
+
+Blocklength sweep under other power and CPU settings
+  P_k = 17 dBm           best n_k  900 (0.16%), Spearman(n_k, total) -1.000, recorded max 0.00%, mean latency 0.303-0.375 ms
+  P_k = 20 dBm           best n_k  900 (0.15%), Spearman(n_k, total) -1.000, recorded max 0.00%, mean latency 0.303-0.375 ms
+  P_k = 23 dBm           best n_k  900 (0.15%), Spearman(n_k, total) -1.000, recorded max 0.00%, mean latency 0.303-0.374 ms
+  F_max = 6 GHz          best n_k  900 (0.15%), Spearman(n_k, total) -1.000, recorded max 0.00%, mean latency 0.373-0.406 ms
+  F_max = 8 GHz          best n_k  900 (0.15%), Spearman(n_k, total) -1.000, recorded max 0.00%, mean latency 0.303-0.374 ms
+  F_max = 10 GHz         best n_k  900 (0.15%), Spearman(n_k, total) -1.000, recorded max 0.00%, mean latency 0.259-0.367 ms
+  own CPU allocation     best n_k  900 (0.15%), Spearman(n_k, total) -1.000, recorded max 0.00%, mean latency 0.303-0.374 ms
+  equal CPU allocation   best n_k  900 (0.15%), Spearman(n_k, total) -1.000, recorded max 0.00%, mean latency 0.305-0.371 ms
+
+Every method at every setting (trained at the nominal setting, not retrained; trained arms: mean [95% CI] over training seeds)
+  setting               method                               total %  recorded %   drop %  mean ms  p99 deliv  median n_k
+  P_k = 17 dBm          Heuristic                               6.16        0.00     6.16    0.303      0.602         525
+  P_k = 17 dBm          Heuristic-adaptive-n                    0.16        0.00     0.16    0.279      0.432         370
+  P_k = 17 dBm          FedPPO-QR               21.52 [12.41, 30.63]        0.00    21.52    0.313      0.660         475
+  P_k = 17 dBm          FedPPO-Mean             27.20 [14.88, 39.51]        0.00    27.20    0.322      0.666         459
+  P_k = 17 dBm          Centralized-QR          31.69 [10.30, 53.08]        0.00    31.69    0.344      0.642         585
+  P_k = 17 dBm          FedAvg-DDQN               8.47 [2.85, 14.08]        0.00     8.47    0.302      0.571         501
+  P_k = 20 dBm          Heuristic                               6.14        0.00     6.14    0.303      0.602         525
+  P_k = 20 dBm          Heuristic-adaptive-n                    0.15        0.00     0.15    0.279      0.431         370
+  P_k = 20 dBm          FedPPO-QR               21.48 [12.38, 30.58]        0.00    21.48    0.313      0.660         475
+  P_k = 20 dBm          FedPPO-Mean             27.15 [14.83, 39.47]        0.00    27.15    0.321      0.665         459
+  P_k = 20 dBm          Centralized-QR          31.62 [10.27, 52.98]        0.00    31.62    0.344      0.641         585
+  P_k = 20 dBm          FedAvg-DDQN               8.44 [2.84, 14.04]        0.00     8.44    0.302      0.571         501
+  P_k = 23 dBm          Heuristic                               6.13        0.00     6.13    0.303      0.602         525
+  P_k = 23 dBm          Heuristic-adaptive-n                    0.15        0.00     0.15    0.279      0.431         369
+  P_k = 23 dBm          FedPPO-QR               21.47 [12.37, 30.56]        0.00    21.47    0.313      0.660         475
+  P_k = 23 dBm          FedPPO-Mean             27.13 [14.81, 39.45]        0.00    27.13    0.321      0.665         459
+  P_k = 23 dBm          Centralized-QR          31.60 [10.26, 52.93]        0.00    31.60    0.344      0.641         585
+  P_k = 23 dBm          FedAvg-DDQN               8.42 [2.83, 14.01]        0.00     8.42    0.302      0.571         501
+  F_max = 6 GHz         Heuristic                               6.13        0.00     6.13    0.376      0.694         525
+  F_max = 6 GHz         Heuristic-adaptive-n                    0.15        0.00     0.15    0.358      0.545         369
+  F_max = 6 GHz         FedPPO-QR               21.42 [12.50, 30.35]        0.07    21.35    0.371      0.789         475
+  F_max = 6 GHz         FedPPO-Mean             27.13 [15.16, 39.09]        0.06    27.06    0.376      0.784         459
+  F_max = 6 GHz         Centralized-QR          31.88 [10.71, 53.05]        0.05    31.82    0.397      0.779         585
+  F_max = 6 GHz         FedAvg-DDQN               8.19 [2.49, 13.90]        0.02     8.17    0.373      0.688         501
+  F_max = 8 GHz         Heuristic                               6.13        0.00     6.13    0.303      0.602         525
+  F_max = 8 GHz         Heuristic-adaptive-n                    0.15        0.00     0.15    0.279      0.431         369
+  F_max = 8 GHz         FedPPO-QR               21.47 [12.37, 30.56]        0.00    21.47    0.313      0.660         475
+  F_max = 8 GHz         FedPPO-Mean             27.13 [14.81, 39.45]        0.00    27.13    0.321      0.665         459
+  F_max = 8 GHz         Centralized-QR          31.60 [10.26, 52.93]        0.00    31.60    0.344      0.641         585
+  F_max = 8 GHz         FedAvg-DDQN               8.42 [2.83, 14.01]        0.00     8.42    0.302      0.571         501
+  F_max = 10 GHz        Heuristic                               6.13        0.00     6.13    0.259      0.544         525
+  F_max = 10 GHz        Heuristic-adaptive-n                    0.15        0.00     0.15    0.232      0.364         369
+  F_max = 10 GHz        FedPPO-QR               21.56 [12.37, 30.74]        0.00    21.56    0.278      0.593         475
+  F_max = 10 GHz        FedPPO-Mean             27.27 [14.74, 39.79]        0.00    27.27    0.289      0.598         459
+  F_max = 10 GHz        Centralized-QR          31.56 [10.16, 52.95]        0.00    31.56    0.313      0.569         585
+  F_max = 10 GHz        FedAvg-DDQN               8.61 [3.12, 14.10]        0.00     8.61    0.259      0.508         501
+  own CPU allocation    Heuristic                               6.13        0.00     6.13    0.303      0.602         525
+  own CPU allocation    Heuristic-adaptive-n                    0.15        0.00     0.15    0.279      0.431         369
+  own CPU allocation    FedPPO-QR               21.47 [12.37, 30.56]        0.00    21.47    0.313      0.660         475
+  own CPU allocation    FedPPO-Mean             27.13 [14.81, 39.45]        0.00    27.13    0.321      0.665         459
+  own CPU allocation    Centralized-QR          31.60 [10.26, 52.93]        0.00    31.60    0.344      0.641         585
+  own CPU allocation    FedAvg-DDQN               8.42 [2.83, 14.01]        0.00     8.42    0.302      0.571         501
+  equal CPU allocation  Heuristic                               6.13        0.00     6.13    0.305      0.656         525
+  equal CPU allocation  Heuristic-adaptive-n                    0.15        0.00     0.15    0.284      0.576         369
+  equal CPU allocation  FedPPO-QR               21.44 [12.36, 30.53]        0.00    21.44    0.313      0.661         475
+  equal CPU allocation  FedPPO-Mean             27.13 [14.83, 39.43]        0.00    27.13    0.321      0.665         459
+  equal CPU allocation  Centralized-QR          31.59 [10.25, 52.93]        0.00    31.59    0.344      0.642         585
+  equal CPU allocation  FedAvg-DDQN               8.39 [2.80, 13.98]        0.00     8.39    0.303      0.601         501
+
+  FedPPO-QR, setting minus nominal (paired over training seeds), total violation
+    P_k = 17 dBm           +0.06 [+0.03, +0.08] p=0.0009
+    P_k = 20 dBm           +0.02 [+0.00, +0.03] p=0.0159
+    F_max = 6 GHz          -0.04 [-0.27, +0.18] p=0.6834
+    F_max = 10 GHz         +0.09 [-0.04, +0.22] p=0.1466
+    equal CPU allocation   -0.02 [-0.06, +0.02] p=0.2140
+
+Training budget, FedPPO-QR, mean over seeds
+  1x   total 18.87%  recorded 0.00%  drop 18.87%  median n_k 531  n_k IQR 528-534
+  2x   total 18.84%  recorded 0.00%  drop 18.84%  median n_k 531  n_k IQR 527-534  vs 1x -0.04 [-4.35, +4.28] p=0.975
+  4x   total 20.93%  recorded 0.00%  drop 20.93%  median n_k 508  n_k IQR 503-511  vs 1x +2.06 [-11.24, +15.36] p=0.574
+
+Comparisons with 30 seeds
+  FedPPO-QR              total 16.28 [11.77, 20.79]  recorded 0.00
+  Centralized-QR         total 35.35 [24.07, 46.62]  recorded 0.01
+  Heuristic              total 5.17 [3.90, 6.43]  recorded 0.00
+  Heuristic-adaptive-n   total 0.09 [0.05, 0.12]  recorded 0.00
+  Centralized-QR         minus FedPPO-QR, viol_total    +19.07 [+7.71, +30.42] p=0.0018 MDE 16.09
+  Centralized-QR         minus FedPPO-QR, viol_reported +0.01 [-0.01, +0.04] p=0.3256 MDE 0.04
+  Heuristic              minus FedPPO-QR, viol_total    -11.11 [-15.52, -6.71] p=0.0000 MDE 6.24
+  Heuristic              minus FedPPO-QR, viol_reported +0.00 [+0.00, +0.00] p=nan MDE 0.00
+  Heuristic-adaptive-n   minus FedPPO-QR, viol_total    -16.19 [-20.69, -11.69] p=0.0000 MDE 6.38
+  Heuristic-adaptive-n   minus FedPPO-QR, viol_reported +0.00 [+0.00, +0.00] p=nan MDE 0.00
+
+Training reward, mean over seeds
+  FedPPO-QR        per-seed curve files in ckpt/: 30
+  FedPPO-Mean      per-seed curve files in ckpt/: 10
+  FedAvg-DDQN      per-seed curve files in ckpt/: 10
+  Centralized-QR   per-seed curve files in ckpt/: 30
+  FedPPO-QR        first round -0.364, last round -0.356 (+2.1%), best round 149
+  FedPPO-Mean      first round -0.364, last round -0.358 (+1.5%), best round 145
+  FedAvg-DDQN      first round -0.332, last round -0.306 (+7.7%), best round 148
+  Centralized-QR   first round -0.364, last round -0.379 (-4.0%), best round 1
+
+SIC priority surface, FedPPO-QR, mean over 10 seeds (per-seed sign agreement 95.7%)
+  mean sensitivity: -0.010 per unit computation-demand ratio, -0.019 per unit gain ratio
+
+Table II, CVaR_0.95 of delivered tasks, mean over seeds [95% t-interval]; Table III, all tasks pooled
+method                             Table II CVaR     VaR    CVaR  max drop  v_tot %  drops in tail %
+FedPPO-QR                   0.548 [0.459, 0.636]   0.487   0.587     0.450    22.49             0.00
+FedPPO-Mean                 0.564 [0.492, 0.635]   0.507   0.594     0.434    27.47             0.00
+Centralized-QR              0.553 [0.487, 0.619]   0.497   0.560     0.465    35.19             0.00
+FedAvg-DDQN                 0.451 [0.363, 0.538]   0.448   0.516     0.451     9.44             0.04
+Heuristic                   0.471 [0.386, 0.557]   0.428   0.521     0.428     5.91            23.70
+Heuristic-adaptive-n        0.360 [0.305, 0.415]   0.402   0.438     0.465     0.10             1.90
+QR - Mean delivered CVaR: -0.016 [-0.041, 0.009], p = 0.181, TOST margin 0.037 ms (6.7% of QR)
